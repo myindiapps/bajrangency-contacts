@@ -6,7 +6,7 @@
         {
           "name": "",
           "district_president": {
-            "name": "Sh. Babu",
+            "name": "Shri Babu",
             "phone": "+919400230257"
           },
           "tehsils": []
@@ -19,7 +19,7 @@
         {
           "name": "South Tamilnadu",
           "district_president": {
-            "name": "Sh. A. Bharat",
+            "name": "Shri A. Bharat",
             "phone": "+919585594974"
           },
           "tehsils": []
@@ -27,14 +27,14 @@
         {
           "name": "North Tamilnadu",
           "district_president": {
-            "name": "Sh. Sriram",
+            "name": "Shri Sriram",
             "phone": "+917401785055"
           },
           "tehsils": [
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Gogul",
+                "name": "Shri Gogul",
                 "phone": "+917401786786"
               }
             }
@@ -48,14 +48,14 @@
         {
           "name": "South Karnataka",
           "district_president": {
-            "name": "Sh. Basavaraj",
+            "name": "Shri Basavaraj",
             "phone": "+919494668484"
           },
           "tehsils": [
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Raghu",
+                "name": "Shri Raghu",
                 "phone": "+919943512100"
               }
             }
@@ -64,7 +64,7 @@
         {
           "name": "North Karnataka",
           "district_president": {
-            "name": "Sh. Govardhan Rao",
+            "name": "Shri Govardhan Rao",
             "phone": "+919448204711"
           },
           "tehsils": []
@@ -77,7 +77,7 @@
         {
           "name": "South Andhra",
           "district_president": {
-            "name": "Sh. S. Pranesh",
+            "name": "Shri S. Pranesh",
             "phone": "+919440294231"
           },
           "tehsils": []
@@ -85,7 +85,7 @@
         {
           "name": "North Andhra",
           "district_president": {
-            "name": "Sh. Shiv Shankar",
+            "name": "Shri Shiv Shankar",
             "phone": "+919491721090"
           },
           "tehsils": []
@@ -98,7 +98,7 @@
         {
           "name": "",
           "district_president": {
-            "name": "Sh. Shivram",
+            "name": "Shri Shivram",
             "phone": "+917989140255"
           },
           "tehsils": []
@@ -111,7 +111,7 @@
         {
           "name": "Vidarbha",
           "district_president": {
-            "name": "Sh. Prashant Titare",
+            "name": "Shri Prashant Titare",
             "phone": "+919922112100"
           },
           "tehsils": []
@@ -119,15 +119,15 @@
         {
           "name": "Nasik",
           "district_president": {
-            "name": "Dr. Pradip Ugale",
-            "phone": "+919011238395"
+            "name": "Shri Vinit Mahajan",
+            "phone": "+918983004222"
           },
           "tehsils": [
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Vinit Mahajan",
-                "phone": "+918983004222"
+                "name": "Dr. Pradip Ugale",
+                "phone": "+919011238395"
               }
             }
           ]
@@ -135,7 +135,7 @@
         {
           "name": "Ahmadnagar",
           "district_president": {
-            "name": "Sh. Nanekar",
+            "name": "Shri Nanekar",
             "phone": "+919823304522"
           },
           "tehsils": []
@@ -143,7 +143,7 @@
         {
           "name": "Solapur",
           "district_president": {
-            "name": "Sh. Satish Agarde",
+            "name": "Shri Satish Agarde",
             "phone": "+919768360993"
           },
           "tehsils": []
@@ -151,14 +151,14 @@
         {
           "name": "Kolhapur",
           "district_president": {
-            "name": "Sh. Shiv Prasad Vyas",
+            "name": "Shri Shiv Prasad Vyas",
             "phone": "+919823907360"
           },
           "tehsils": [
             {
               "name": "Kolhapur, Sangali & Satara",
               "tehsil_president": {
-                "name": "Sh. Shiv Prasad Vyas",
+                "name": "Shri Shiv Prasad Vyas",
                 "phone": "+919823907360"
               }
             }
@@ -167,21 +167,21 @@
         {
           "name": "Pune",
           "district_president": {
-            "name": "Sh. Nitin Wadkar",
+            "name": "Shri Nitin Wadkar",
             "phone": "+919168401105"
           },
           "tehsils": [
             {
               "name": "Pune Mahanagar",
               "tehsil_president": {
-                "name": "Sh. Tushar Kulkarni",
+                "name": "Shri Tushar Kulkarni",
                 "phone": "+919890319506"
               }
             },
             {
               "name": "Pune Mahanagar",
               "tehsil_president": {
-                "name": "Sh. Kishor Chauhan",
+                "name": "Shri Kishor Chauhan",
                 "phone": "+919326105106"
               }
             }
@@ -190,21 +190,21 @@
         {
           "name": "Devgiri",
           "district_president": {
-            "name": "Sh. Rajiv Jahagirdar",
+            "name": "Shri Rajiv Jahagirdar",
             "phone": "+919403807012"
           },
           "tehsils": [
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Kashinath Dafle",
+                "name": "Shri Kashinath Dafle",
                 "phone": "+917209398020"
               }
             },
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Kalash Gaikwad",
+                "name": "Shri Kalash Gaikwad",
                 "phone": "+918850194187"
               }
             }
@@ -213,7 +213,7 @@
         {
           "name": "Konkan",
           "district_president": {
-            "name": "Sh. Sanjay Lohde",
+            "name": "Shri Sanjay Lohde",
             "phone": "+919822591418"
           },
           "tehsils": []
@@ -226,21 +226,21 @@
         {
           "name": "South Gujarat",
           "district_president": {
-            "name": "Sh. Raj Nayar",
+            "name": "Shri Raj Nayar",
             "phone": "+919924203595"
           },
           "tehsils": [
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Dushyant Vyas",
+                "name": "Shri Dushyant Vyas",
                 "phone": "+919825277356"
               }
             },
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Chandrakantbhai Upadhyay",
+                "name": "Shri Chandrakantbhai Upadhyay",
                 "phone": "+919974553548"
               }
             }
@@ -249,7 +249,7 @@
         {
           "name": "Saurashtra",
           "district_president": {
-            "name": "Sh. Nitesh Kathiria",
+            "name": "Shri Nitesh Kathiria",
             "phone": "+919723445544"
           },
           "tehsils": []
@@ -257,7 +257,7 @@
         {
           "name": "North Gujarat",
           "district_president": {
-            "name": "Sh. Mitesh Jaiswal",
+            "name": "Shri Mitesh Jaiswal",
             "phone": "+919825591782"
           },
           "tehsils": []
@@ -270,14 +270,14 @@
         {
           "name": "Malwa",
           "district_president": {
-            "name": "Sh. Kantibhai Patel",
+            "name": "Shri Kantibhai Patel",
             "phone": "+919993609368"
           },
           "tehsils": [
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Sohanlal Vishvakarma",
+                "name": "Shri Sohanlal Vishvakarma",
                 "phone": "+919977524156"
               }
             }
@@ -286,7 +286,7 @@
         {
           "name": "Madhya Bharat",
           "district_president": {
-            "name": "Sh. Lakshman Prasad Verma (Pappu Verma)",
+            "name": "Shri Lakshman Prasad Verma (Pappu Verma)",
             "phone": "+919425717425"
           },
           "tehsils": []
@@ -294,42 +294,42 @@
         {
           "name": "Mahakaushal",
           "district_president": {
-            "name": "Sh. Lakshman Singh",
+            "name": "Shri Lakshman Singh",
             "phone": "+919424973711"
           },
           "tehsils": [
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Yogesh Tiwari",
+                "name": "Shri Yogesh Tiwari",
                 "phone": "+919424973711"
               }
             },
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Tilak Tiwari",
+                "name": "Shri Tilak Tiwari",
                 "phone": "+919424973711"
               }
             },
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Surendra Singh",
+                "name": "Shri Surendra Singh",
                 "phone": "+919424973707"
               }
             },
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Sagar Gupta",
+                "name": "Shri Sagar Gupta",
                 "phone": "+918827066332"
               }
             },
             {
               "name": "",
               "tehsil_president": {
-                "name": "Sh. Udai Rao",
+                "name": "Shri Udai Rao",
                 "phone": "+919009909909"
               }
             }
