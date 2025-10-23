@@ -1,0 +1,341 @@
+{
+  "contacts": [
+    {
+      "state": "Kerala",
+      "districts": [
+        {
+          "name": "",
+          "district_president": {
+            "name": "Sh. Babu",
+            "phone": "+919400230257"
+          },
+          "tehsils": []
+        }
+      ]
+    },
+    {
+      "state": "Tamil Nadu",
+      "districts": [
+        {
+          "name": "South Tamilnadu",
+          "district_president": {
+            "name": "Sh. A. Bharat",
+            "phone": "+919585594974"
+          },
+          "tehsils": []
+        },
+        {
+          "name": "North Tamilnadu",
+          "district_president": {
+            "name": "Sh. Sriram",
+            "phone": "+917401785055"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Gogul",
+                "phone": "+917401786786"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Karnataka",
+      "districts": [
+        {
+          "name": "South Karnataka",
+          "district_president": {
+            "name": "Sh. Basavaraj",
+            "phone": "+919494668484"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Raghu",
+                "phone": "+919943512100"
+              }
+            }
+          ]
+        },
+        {
+          "name": "North Karnataka",
+          "district_president": {
+            "name": "Sh. Govardhan Rao",
+            "phone": "+919448204711"
+          },
+          "tehsils": []
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "districts": [
+        {
+          "name": "South Andhra",
+          "district_president": {
+            "name": "Sh. S. Pranesh",
+            "phone": "+919440294231"
+          },
+          "tehsils": []
+        },
+        {
+          "name": "North Andhra",
+          "district_president": {
+            "name": "Sh. Shiv Shankar",
+            "phone": "+919491721090"
+          },
+          "tehsils": []
+        }
+      ]
+    },
+    {
+      "state": "Telangana",
+      "districts": [
+        {
+          "name": "",
+          "district_president": {
+            "name": "Sh. Shivram",
+            "phone": "+917989140255"
+          },
+          "tehsils": []
+        }
+      ]
+    },
+    {
+      "state": "Maharashtra",
+      "districts": [
+        {
+          "name": "Vidarbha",
+          "district_president": {
+            "name": "Sh. Prashant Titare",
+            "phone": "+919922112100"
+          },
+          "tehsils": []
+        },
+        {
+          "name": "Nasik",
+          "district_president": {
+            "name": "Dr. Pradip Ugale",
+            "phone": "+919011238395"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Vinit Mahajan",
+                "phone": "+918983004222"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Ahmadnagar",
+          "district_president": {
+            "name": "Sh. Nanekar",
+            "phone": "+919823304522"
+          },
+          "tehsils": []
+        },
+        {
+          "name": "Solapur",
+          "district_president": {
+            "name": "Sh. Satish Agarde",
+            "phone": "+919768360993"
+          },
+          "tehsils": []
+        },
+        {
+          "name": "Kolhapur",
+          "district_president": {
+            "name": "Sh. Shiv Prasad Vyas",
+            "phone": "+919823907360"
+          },
+          "tehsils": [
+            {
+              "name": "Kolhapur, Sangali & Satara",
+              "tehsil_president": {
+                "name": "Sh. Shiv Prasad Vyas",
+                "phone": "+919823907360"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Pune",
+          "district_president": {
+            "name": "Sh. Nitin Wadkar",
+            "phone": "+919168401105"
+          },
+          "tehsils": [
+            {
+              "name": "Pune Mahanagar",
+              "tehsil_president": {
+                "name": "Sh. Tushar Kulkarni",
+                "phone": "+919890319506"
+              }
+            },
+            {
+              "name": "Pune Mahanagar",
+              "tehsil_president": {
+                "name": "Sh. Kishor Chauhan",
+                "phone": "+919326105106"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Devgiri",
+          "district_president": {
+            "name": "Sh. Rajiv Jahagirdar",
+            "phone": "+919403807012"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Kashinath Dafle",
+                "phone": "+917209398020"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Kalash Gaikwad",
+                "phone": "+918850194187"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Konkan",
+          "district_president": {
+            "name": "Sh. Sanjay Lohde",
+            "phone": "+919822591418"
+          },
+          "tehsils": []
+        }
+      ]
+    },
+    {
+      "state": "Gujarat",
+      "districts": [
+        {
+          "name": "South Gujarat",
+          "district_president": {
+            "name": "Sh. Raj Nayar",
+            "phone": "+919924203595"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Dushyant Vyas",
+                "phone": "+919825277356"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Chandrakantbhai Upadhyay",
+                "phone": "+919974553548"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Saurashtra",
+          "district_president": {
+            "name": "Sh. Nitesh Kathiria",
+            "phone": "+919723445544"
+          },
+          "tehsils": []
+        },
+        {
+          "name": "North Gujarat",
+          "district_president": {
+            "name": "Sh. Mitesh Jaiswal",
+            "phone": "+919825591782"
+          },
+          "tehsils": []
+        }
+      ]
+    },
+    {
+      "state": "Madhya Pradesh",
+      "districts": [
+        {
+          "name": "Malwa",
+          "district_president": {
+            "name": "Sh. Kantibhai Patel",
+            "phone": "+919993609368"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Sohanlal Vishvakarma",
+                "phone": "+919977524156"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Madhya Bharat",
+          "district_president": {
+            "name": "Sh. Lakshman Prasad Verma (Pappu Verma)",
+            "phone": "+919425717425"
+          },
+          "tehsils": []
+        },
+        {
+          "name": "Mahakaushal",
+          "district_president": {
+            "name": "Sh. Lakshman Singh",
+            "phone": "+919424973711"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Yogesh Tiwari",
+                "phone": "+919424973711"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Tilak Tiwari",
+                "phone": "+919424973711"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Surendra Singh",
+                "phone": "+919424973707"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Sagar Gupta",
+                "phone": "+918827066332"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Sh. Udai Rao",
+                "phone": "+919009909909"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
