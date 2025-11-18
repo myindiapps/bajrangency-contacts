@@ -1,0 +1,6008 @@
+{
+  "contacts": [
+    {
+      "state": "Andhra Pradesh",
+      "districts": [
+        {
+          "name": "Srikakulam",
+          "district_president": {
+            "name": "Dr. Shankar Verma",
+            "phone": "+917766368242"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Ritesh Naidu",
+                "phone": "+919685478405"
+              }
+            },
+            {
+              "name": "Srikakulam Zone B",
+              "tehsil_president": {
+                "name": "Prof. Kunal Tandon",
+                "phone": "+916583338532"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Vizianagaram",
+          "district_president": {
+            "name": "Shri Satish Saxena",
+            "phone": "+916551369499"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Mohit Singh",
+                "phone": "+918850303185"
+              }
+            },
+            {
+              "name": "Vizianagaram Zone B",
+              "tehsil_president": {
+                "name": "Adv. Lalit Sharma",
+                "phone": "+918623101711"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Sumit Tiwari",
+                "phone": "+916327233107"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Visakhapatnam",
+          "district_president": {
+            "name": "Prof. Atul Shah",
+            "phone": "+916271725248"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Vinod Pawar",
+                "phone": "+918339711822"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Atul Chopra",
+                "phone": "+917028628604"
+              }
+            },
+            {
+              "name": "Visakhapatnam Zone C",
+              "tehsil_president": {
+                "name": "Adv. Atul Kumar",
+                "phone": "+916307514688"
+              }
+            }
+          ]
+        },
+        {
+          "name": "East Godavari",
+          "district_president": {
+            "name": "Prof. Hari Singh",
+            "phone": "+918809099396"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Harish Chaturvedi",
+                "phone": "+918008196876"
+              }
+            },
+            {
+              "name": "East Godavari Zone B",
+              "tehsil_president": {
+                "name": "Dr. Hitesh Tandon",
+                "phone": "+918114872559"
+              }
+            },
+            {
+              "name": "East Godavari Zone C",
+              "tehsil_president": {
+                "name": "Shri Singh Kulkarni",
+                "phone": "+916351035779"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Narayan Pandey",
+                "phone": "+918943151151"
+              }
+            }
+          ]
+        },
+        {
+          "name": "West Godavari",
+          "district_president": {
+            "name": "Shri Varun Mishra",
+            "phone": "+917881275308"
+          },
+          "tehsils": [
+            {
+              "name": "West Godavari Zone A",
+              "tehsil_president": {
+                "name": "Dr. Kunal Chaturvedi",
+                "phone": "+918592809186"
+              }
+            },
+            {
+              "name": "West Godavari Zone B",
+              "tehsil_president": {
+                "name": "Prof. Ganesh Sharma",
+                "phone": "+919160889307"
+              }
+            },
+            {
+              "name": "West Godavari Zone C",
+              "tehsil_president": {
+                "name": "Prof. Anand Chaturvedi",
+                "phone": "+918047403866"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Krishna",
+          "district_president": {
+            "name": "Shri Madhav Thakur",
+            "phone": "+918806632878"
+          },
+          "tehsils": [
+            {
+              "name": "Krishna Zone A",
+              "tehsil_president": {
+                "name": "Shri Rohan Mathur",
+                "phone": "+918074196286"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Vinod Rathore",
+                "phone": "+919005091486"
+              }
+            },
+            {
+              "name": "Krishna Zone C",
+              "tehsil_president": {
+                "name": "Shri Chetan Tandon",
+                "phone": "+916200181795"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Guntur",
+          "district_president": {
+            "name": "Prof. Pankaj Kulkarni",
+            "phone": "+919819254919"
+          },
+          "tehsils": [
+            {
+              "name": "Guntur Zone A",
+              "tehsil_president": {
+                "name": "Shri Arun Mehta",
+                "phone": "+916487014371"
+              }
+            },
+            {
+              "name": "Guntur Zone B",
+              "tehsil_president": {
+                "name": "Shri Chetan Rao",
+                "phone": "+918893244496"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Prakasam",
+          "district_president": {
+            "name": "Dr. Vishnu Reddy",
+            "phone": "+916249106838"
+          },
+          "tehsils": [
+            {
+              "name": "Prakasam Zone A",
+              "tehsil_president": {
+                "name": "Shri Chirag Rajput",
+                "phone": "+918904322184"
+              }
+            },
+            {
+              "name": "Prakasam Zone B",
+              "tehsil_president": {
+                "name": "Prof. Jitendra Singh",
+                "phone": "+919602395570"
+              }
+            },
+            {
+              "name": "Prakasam Zone C",
+              "tehsil_president": {
+                "name": "Dr. Tarun Verma",
+                "phone": "+916432876454"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Anand Bhatia",
+                "phone": "+918280430310"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "districts": [
+        {
+          "name": "Tawang",
+          "district_president": {
+            "name": "Prof. Madan Naidu",
+            "phone": "+918193196443"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Mohit Trivedi",
+                "phone": "+917625769470"
+              }
+            },
+            {
+              "name": "Tawang Zone B",
+              "tehsil_president": {
+                "name": "Dr. Verma Deshpande",
+                "phone": "+919234823644"
+              }
+            },
+            {
+              "name": "Tawang Zone C",
+              "tehsil_president": {
+                "name": "Adv. Kabir Thakur",
+                "phone": "+918608162981"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Ashok Sharma",
+                "phone": "+918135733329"
+              }
+            }
+          ]
+        },
+        {
+          "name": "West Kameng",
+          "district_president": {
+            "name": "Dr. Bhuvan Bhatt",
+            "phone": "+919040464107"
+          },
+          "tehsils": [
+            {
+              "name": "West Kameng Zone A",
+              "tehsil_president": {
+                "name": "Adv. Govind Reddy",
+                "phone": "+918314173479"
+              }
+            }
+          ]
+        },
+        {
+          "name": "East Kameng",
+          "district_president": {
+            "name": "Prof. Verma Pawar",
+            "phone": "+917591416646"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Prakash Shah",
+                "phone": "+917123033318"
+              }
+            },
+            {
+              "name": "East Kameng Zone B",
+              "tehsil_president": {
+                "name": "Shri Mahendra Bhatia",
+                "phone": "+917004848211"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Vijay Shah",
+                "phone": "+917930841766"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Papum Pare",
+          "district_president": {
+            "name": "Dr. Lalit Rathore",
+            "phone": "+916008882247"
+          },
+          "tehsils": [
+            {
+              "name": "Papum Pare Zone A",
+              "tehsil_president": {
+                "name": "Dr. Naresh Kumar",
+                "phone": "+916250983560"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Lakshman Thakur",
+                "phone": "+916078085461"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Upper Subansiri",
+          "district_president": {
+            "name": "Prof. Girish Shah",
+            "phone": "+917837589208"
+          },
+          "tehsils": [
+            {
+              "name": "Upper Subansiri Zone A",
+              "tehsil_president": {
+                "name": "Shri Lalit Thakur",
+                "phone": "+919034445046"
+              }
+            }
+          ]
+        },
+        {
+          "name": "West Siang",
+          "district_president": {
+            "name": "Dr. Harish Deshpande",
+            "phone": "+916920521590"
+          },
+          "tehsils": [
+            {
+              "name": "West Siang Zone A",
+              "tehsil_president": {
+                "name": "Shri Sandeep Pawar",
+                "phone": "+919327630660"
+              }
+            }
+          ]
+        },
+        {
+          "name": "East Siang",
+          "district_president": {
+            "name": "Shri Ashish Chaturvedi",
+            "phone": "+917897838995"
+          },
+          "tehsils": [
+            {
+              "name": "East Siang Zone A",
+              "tehsil_president": {
+                "name": "Adv. Kumar Mathur",
+                "phone": "+916176814457"
+              }
+            },
+            {
+              "name": "East Siang Zone B",
+              "tehsil_president": {
+                "name": "Dr. Dhruv Shah",
+                "phone": "+916347208025"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Shankar Thakur",
+                "phone": "+919032344142"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Surendra Malhotra",
+                "phone": "+917912577276"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Upper Siang",
+          "district_president": {
+            "name": "Shri Gopal Arora",
+            "phone": "+916656757034"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Hari Desai",
+                "phone": "+917941169403"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Assam",
+      "districts": [
+        {
+          "name": "Kokrajhar",
+          "district_president": {
+            "name": "Dr. Rohan Trivedi",
+            "phone": "+917961367154"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Hitesh Mathur",
+                "phone": "+917407513526"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Dhubri",
+          "district_president": {
+            "name": "Prof. Verma Dwivedi",
+            "phone": "+919305707917"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Nakul Mishra",
+                "phone": "+916993893546"
+              }
+            },
+            {
+              "name": "Dhubri Zone B",
+              "tehsil_president": {
+                "name": "Prof. Rohit Kulkarni",
+                "phone": "+916436895068"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Goalpara",
+          "district_president": {
+            "name": "Dr. Madan Dubey",
+            "phone": "+918721579051"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Govind Srivastava",
+                "phone": "+918019150602"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Jitendra Rao",
+                "phone": "+916825418908"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Neeraj Chauhan",
+                "phone": "+917688753911"
+              }
+            },
+            {
+              "name": "Goalpara Zone D",
+              "tehsil_president": {
+                "name": "Prof. Dhruv Mathur",
+                "phone": "+916246488775"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Barpeta",
+          "district_president": {
+            "name": "Shri Varun Mishra",
+            "phone": "+918342736085"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Mahendra Mathur",
+                "phone": "+917280730959"
+              }
+            },
+            {
+              "name": "Barpeta Zone B",
+              "tehsil_president": {
+                "name": "Dr. Kiran Pawar",
+                "phone": "+917668822191"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Morigaon",
+          "district_president": {
+            "name": "Prof. Kunal Bhatia",
+            "phone": "+918554299780"
+          },
+          "tehsils": [
+            {
+              "name": "Morigaon Zone A",
+              "tehsil_president": {
+                "name": "Dr. Nikhil Agarwal",
+                "phone": "+918212262870"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Pramod Khanna",
+                "phone": "+919461733751"
+              }
+            },
+            {
+              "name": "Morigaon Zone C",
+              "tehsil_president": {
+                "name": "Dr. Madhav Kumar",
+                "phone": "+917399103230"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Nagaon",
+          "district_president": {
+            "name": "Adv. Keshav Khanna",
+            "phone": "+916514288531"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Devendra Iyer",
+                "phone": "+919262430551"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sonitpur",
+          "district_president": {
+            "name": "Dr. Varun Arora",
+            "phone": "+916048109616"
+          },
+          "tehsils": [
+            {
+              "name": "Sonitpur Zone A",
+              "tehsil_president": {
+                "name": "Shri Saurabh Verma",
+                "phone": "+917021643831"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Ramesh Verma",
+                "phone": "+917908369421"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Lakhimpur",
+          "district_president": {
+            "name": "Shri Anand Trivedi",
+            "phone": "+916066840860"
+          },
+          "tehsils": [
+            {
+              "name": "Lakhimpur Zone A",
+              "tehsil_president": {
+                "name": "Shri Nikhil Pandey",
+                "phone": "+919403837461"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Lalit Joshi",
+                "phone": "+919463834773"
+              }
+            },
+            {
+              "name": "Lakhimpur Zone C",
+              "tehsil_president": {
+                "name": "Dr. Ram Jain",
+                "phone": "+918885409954"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Bihar",
+      "districts": [
+        {
+          "name": "Pashchim Champaran",
+          "district_president": {
+            "name": "Dr. Singh Srivastava",
+            "phone": "+916691367519"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Dharmendra Pandey",
+                "phone": "+917709550234"
+              }
+            },
+            {
+              "name": "Pashchim Champaran Zone B",
+              "tehsil_president": {
+                "name": "Adv. Umesh Mathur",
+                "phone": "+916124794746"
+              }
+            },
+            {
+              "name": "Pashchim Champaran Zone C",
+              "tehsil_president": {
+                "name": "Dr. Rohan Tandon",
+                "phone": "+916113035185"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Purba Champaran",
+          "district_president": {
+            "name": "Dr. Lakshman Arora",
+            "phone": "+917780964970"
+          },
+          "tehsils": [
+            {
+              "name": "Purba Champaran Zone A",
+              "tehsil_president": {
+                "name": "Prof. Hitesh Bhatia",
+                "phone": "+918428250359"
+              }
+            },
+            {
+              "name": "Purba Champaran Zone B",
+              "tehsil_president": {
+                "name": "Prof. Rajdeep Bhatia",
+                "phone": "+917735299304"
+              }
+            },
+            {
+              "name": "Purba Champaran Zone C",
+              "tehsil_president": {
+                "name": "Shri Mohit Chauhan",
+                "phone": "+919632549626"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sheohar",
+          "district_president": {
+            "name": "Dr. Sohan Reddy",
+            "phone": "+917182590641"
+          },
+          "tehsils": [
+            {
+              "name": "Sheohar Zone A",
+              "tehsil_president": {
+                "name": "Dr. Hari Arora",
+                "phone": "+916701085659"
+              }
+            },
+            {
+              "name": "Sheohar Zone B",
+              "tehsil_president": {
+                "name": "Shri Vinod Thakur",
+                "phone": "+919167945506"
+              }
+            },
+            {
+              "name": "Sheohar Zone C",
+              "tehsil_president": {
+                "name": "Dr. Ajay Thakur",
+                "phone": "+917252442355"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sitamarhi",
+          "district_president": {
+            "name": "Adv. Mukesh Kulkarni",
+            "phone": "+917831697346"
+          },
+          "tehsils": [
+            {
+              "name": "Sitamarhi Zone A",
+              "tehsil_president": {
+                "name": "Adv. Sumit Trivedi",
+                "phone": "+917105632041"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Madhubani",
+          "district_president": {
+            "name": "Adv. Shiva Chopra",
+            "phone": "+918924527266"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Ashok Verma",
+                "phone": "+918414306111"
+              }
+            },
+            {
+              "name": "Madhubani Zone B",
+              "tehsil_president": {
+                "name": "Shri Gupta Yadav",
+                "phone": "+918191024404"
+              }
+            },
+            {
+              "name": "Madhubani Zone C",
+              "tehsil_president": {
+                "name": "Adv. Harish Singh",
+                "phone": "+918004400274"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Vinod Rathore",
+                "phone": "+918095778012"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Supaul",
+          "district_president": {
+            "name": "Prof. Shyam Iyer",
+            "phone": "+918683731999"
+          },
+          "tehsils": [
+            {
+              "name": "Supaul Zone A",
+              "tehsil_president": {
+                "name": "Adv. Sanjay Mathur",
+                "phone": "+916381663394"
+              }
+            },
+            {
+              "name": "Supaul Zone B",
+              "tehsil_president": {
+                "name": "Adv. Rajdeep Rathore",
+                "phone": "+916449596137"
+              }
+            },
+            {
+              "name": "Supaul Zone C",
+              "tehsil_president": {
+                "name": "Dr. Narayan Dubey",
+                "phone": "+917376458804"
+              }
+            },
+            {
+              "name": "Supaul Zone D",
+              "tehsil_president": {
+                "name": "Adv. Kabir Verma",
+                "phone": "+916283861575"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Araria",
+          "district_president": {
+            "name": "Dr. Narendra Tiwari",
+            "phone": "+919825613683"
+          },
+          "tehsils": [
+            {
+              "name": "Araria Zone A",
+              "tehsil_president": {
+                "name": "Prof. Keshav Kumar",
+                "phone": "+918684603214"
+              }
+            },
+            {
+              "name": "Araria Zone B",
+              "tehsil_president": {
+                "name": "Adv. Tarun Iyengar",
+                "phone": "+918703607831"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kishanganj",
+          "district_president": {
+            "name": "Shri Varun Shah",
+            "phone": "+919082151420"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Deepak Nair",
+                "phone": "+918515280814"
+              }
+            },
+            {
+              "name": "Kishanganj Zone B",
+              "tehsil_president": {
+                "name": "Dr. Verma Srivastava",
+                "phone": "+917771184480"
+              }
+            },
+            {
+              "name": "Kishanganj Zone C",
+              "tehsil_president": {
+                "name": "Adv. Ashok Gupta",
+                "phone": "+918996739668"
+              }
+            },
+            {
+              "name": "Kishanganj Zone D",
+              "tehsil_president": {
+                "name": "Prof. Pankaj Sharma",
+                "phone": "+919931755063"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Chhattisgarh",
+      "districts": [
+        {
+          "name": "Koriya",
+          "district_president": {
+            "name": "Shri Krishna Saxena",
+            "phone": "+916455901914"
+          },
+          "tehsils": [
+            {
+              "name": "Koriya Zone A",
+              "tehsil_president": {
+                "name": "Shri Chirag Malhotra",
+                "phone": "+918345141226"
+              }
+            },
+            {
+              "name": "Koriya Zone B",
+              "tehsil_president": {
+                "name": "Shri Jagdish Kapoor",
+                "phone": "+916540238961"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Vinod Shah",
+                "phone": "+918147046483"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Ashok Patel",
+                "phone": "+917160467416"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Surguja",
+          "district_president": {
+            "name": "Prof. Kunal Malhotra",
+            "phone": "+918345875631"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Arun Nair",
+                "phone": "+918261475569"
+              }
+            },
+            {
+              "name": "Surguja Zone B",
+              "tehsil_president": {
+                "name": "Adv. Satish Chopra",
+                "phone": "+916021018857"
+              }
+            },
+            {
+              "name": "Surguja Zone C",
+              "tehsil_president": {
+                "name": "Adv. Devendra Verma",
+                "phone": "+916677937124"
+              }
+            },
+            {
+              "name": "Surguja Zone D",
+              "tehsil_president": {
+                "name": "Adv. Chirag Kulkarni",
+                "phone": "+917697185219"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Jashpur",
+          "district_president": {
+            "name": "Shri Raghav Saxena",
+            "phone": "+919345758234"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Jagdish Trivedi",
+                "phone": "+917932995348"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Shyam Verma",
+                "phone": "+916554230484"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Raigarh",
+          "district_president": {
+            "name": "Prof. Tanmay Kumar",
+            "phone": "+918605447382"
+          },
+          "tehsils": [
+            {
+              "name": "Raigarh Zone A",
+              "tehsil_president": {
+                "name": "Adv. Hari Mehta",
+                "phone": "+917764041785"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Korba",
+          "district_president": {
+            "name": "Dr. Suresh Nair",
+            "phone": "+917995507677"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Rajdeep Mehta",
+                "phone": "+918882909960"
+              }
+            },
+            {
+              "name": "Korba Zone B",
+              "tehsil_president": {
+                "name": "Adv. Jitesh Chauhan",
+                "phone": "+916584163393"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Janjgir-Champa",
+          "district_president": {
+            "name": "Shri Devendra Chauhan",
+            "phone": "+918211082178"
+          },
+          "tehsils": [
+            {
+              "name": "Janjgir-Champa Zone A",
+              "tehsil_president": {
+                "name": "Prof. Prakash Saxena",
+                "phone": "+918791197190"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Pranav Bhatia",
+                "phone": "+916188847554"
+              }
+            },
+            {
+              "name": "Janjgir-Champa Zone C",
+              "tehsil_president": {
+                "name": "Adv. Harish Shah",
+                "phone": "+917017836445"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bilaspur",
+          "district_president": {
+            "name": "Prof. Harish Iyer",
+            "phone": "+916099551165"
+          },
+          "tehsils": [
+            {
+              "name": "Bilaspur Zone A",
+              "tehsil_president": {
+                "name": "Dr. Rohit Sharma",
+                "phone": "+919489872815"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kabeerdham",
+          "district_president": {
+            "name": "Shri Dinesh Kumar",
+            "phone": "+917330487666"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Rajesh Chopra",
+                "phone": "+918163061198"
+              }
+            },
+            {
+              "name": "Kabeerdham Zone B",
+              "tehsil_president": {
+                "name": "Dr. Prakash Reddy",
+                "phone": "+916546103710"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Goa",
+      "districts": [
+        {
+          "name": "North Goa",
+          "district_president": {
+            "name": "Dr. Mukesh Srivastava",
+            "phone": "+917535878304"
+          },
+          "tehsils": [
+            {
+              "name": "North Goa Zone A",
+              "tehsil_president": {
+                "name": "Dr. Govind Kumar",
+                "phone": "+918253173324"
+              }
+            },
+            {
+              "name": "North Goa Zone B",
+              "tehsil_president": {
+                "name": "Prof. Chirag Tiwari",
+                "phone": "+916224495259"
+              }
+            }
+          ]
+        },
+        {
+          "name": "South Goa",
+          "district_president": {
+            "name": "Adv. Saurabh Kapoor",
+            "phone": "+916646388540"
+          },
+          "tehsils": [
+            {
+              "name": "South Goa Zone A",
+              "tehsil_president": {
+                "name": "Adv. Kabir Desai",
+                "phone": "+916041335826"
+              }
+            },
+            {
+              "name": "South Goa Zone B",
+              "tehsil_president": {
+                "name": "Prof. Nakul Saxena",
+                "phone": "+918231053211"
+              }
+            },
+            {
+              "name": "South Goa Zone C",
+              "tehsil_president": {
+                "name": "Adv. Manoj Desai",
+                "phone": "+917098421677"
+              }
+            },
+            {
+              "name": "South Goa Zone D",
+              "tehsil_president": {
+                "name": "Prof. Narendra Kulkarni",
+                "phone": "+916248711296"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Gujarat",
+      "districts": [
+        {
+          "name": "Kachchh",
+          "district_president": {
+            "name": "Adv. Ashok Dwivedi",
+            "phone": "+919213235548"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Anil Kapoor",
+                "phone": "+918098683187"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Gopal Joshi",
+                "phone": "+918397869712"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Madhav Desai",
+                "phone": "+916324584032"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Ankit Jain",
+                "phone": "+917422093369"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Banas Kantha",
+          "district_president": {
+            "name": "Prof. Ishaan Rao",
+            "phone": "+919233136882"
+          },
+          "tehsils": [
+            {
+              "name": "Banas Kantha Zone A",
+              "tehsil_president": {
+                "name": "Dr. Kumar Deshpande",
+                "phone": "+917950898677"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Patan",
+          "district_president": {
+            "name": "Adv. Umesh Dubey",
+            "phone": "+918900567663"
+          },
+          "tehsils": [
+            {
+              "name": "Patan Zone A",
+              "tehsil_president": {
+                "name": "Adv. Chirag Dwivedi",
+                "phone": "+918681747071"
+              }
+            },
+            {
+              "name": "Patan Zone B",
+              "tehsil_president": {
+                "name": "Prof. Narendra Khanna",
+                "phone": "+918978487071"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Mahesana",
+          "district_president": {
+            "name": "Dr. Gaurav Nair",
+            "phone": "+917707053695"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Amit Rao",
+                "phone": "+918729359121"
+              }
+            },
+            {
+              "name": "Mahesana Zone B",
+              "tehsil_president": {
+                "name": "Prof. Pramod Bhatia",
+                "phone": "+916336041271"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sabar Kantha",
+          "district_president": {
+            "name": "Adv. Ritesh Tandon",
+            "phone": "+919461235587"
+          },
+          "tehsils": [
+            {
+              "name": "Sabar Kantha Zone A",
+              "tehsil_president": {
+                "name": "Shri Ramesh Deshpande",
+                "phone": "+919814550412"
+              }
+            },
+            {
+              "name": "Sabar Kantha Zone B",
+              "tehsil_president": {
+                "name": "Adv. Gupta Chopra",
+                "phone": "+919063595426"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Hitesh Srivastava",
+                "phone": "+919750204783"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Gandhinagar",
+          "district_president": {
+            "name": "Shri Bhuvan Patel",
+            "phone": "+919737755723"
+          },
+          "tehsils": [
+            {
+              "name": "Gandhinagar Zone A",
+              "tehsil_president": {
+                "name": "Adv. Shyam Dubey",
+                "phone": "+918899651203"
+              }
+            },
+            {
+              "name": "Gandhinagar Zone B",
+              "tehsil_president": {
+                "name": "Shri Devendra Agarwal",
+                "phone": "+917029974803"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Ahmadabad",
+          "district_president": {
+            "name": "Dr. Pankaj Pandey",
+            "phone": "+916935242078"
+          },
+          "tehsils": [
+            {
+              "name": "Ahmadabad Zone A",
+              "tehsil_president": {
+                "name": "Adv. Madhav Mehta",
+                "phone": "+917063605980"
+              }
+            },
+            {
+              "name": "Ahmadabad Zone B",
+              "tehsil_president": {
+                "name": "Adv. Devendra Arora",
+                "phone": "+917297414162"
+              }
+            },
+            {
+              "name": "Ahmadabad Zone C",
+              "tehsil_president": {
+                "name": "Dr. Vijay Verma",
+                "phone": "+916486515725"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Surendranagar",
+          "district_president": {
+            "name": "Adv. Rohan Chauhan",
+            "phone": "+918047927982"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Madan Joshi",
+                "phone": "+919438693804"
+              }
+            },
+            {
+              "name": "Surendranagar Zone B",
+              "tehsil_president": {
+                "name": "Dr. Surendra Iyer",
+                "phone": "+918591171202"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Haryana",
+      "districts": [
+        {
+          "name": "Panchkula",
+          "district_president": {
+            "name": "Prof. Girish Joshi",
+            "phone": "+917762838958"
+          },
+          "tehsils": [
+            {
+              "name": "Panchkula Zone A",
+              "tehsil_president": {
+                "name": "Prof. Kiran Iyer",
+                "phone": "+919028255224"
+              }
+            },
+            {
+              "name": "Panchkula Zone B",
+              "tehsil_president": {
+                "name": "Prof. Neeraj Nair",
+                "phone": "+917988413065"
+              }
+            },
+            {
+              "name": "Panchkula Zone C",
+              "tehsil_president": {
+                "name": "Adv. Nikhil Kapoor",
+                "phone": "+919206925183"
+              }
+            },
+            {
+              "name": "Panchkula Zone D",
+              "tehsil_president": {
+                "name": "Shri Sandeep Bhatia",
+                "phone": "+918751057588"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Ambala",
+          "district_president": {
+            "name": "Adv. Chetan Arora",
+            "phone": "+916688679961"
+          },
+          "tehsils": [
+            {
+              "name": "Ambala Zone A",
+              "tehsil_president": {
+                "name": "Shri Ashok Trivedi",
+                "phone": "+919602903221"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Yamunanagar",
+          "district_president": {
+            "name": "Shri Mandeep Kapoor",
+            "phone": "+918609874059"
+          },
+          "tehsils": [
+            {
+              "name": "Yamunanagar Zone A",
+              "tehsil_president": {
+                "name": "Dr. Jagdish Sharma",
+                "phone": "+919413750652"
+              }
+            },
+            {
+              "name": "Yamunanagar Zone B",
+              "tehsil_president": {
+                "name": "Adv. Kunal Malhotra",
+                "phone": "+917931635149"
+              }
+            },
+            {
+              "name": "Yamunanagar Zone C",
+              "tehsil_president": {
+                "name": "Dr. Daksh Mehta",
+                "phone": "+917206242188"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kurukshetra",
+          "district_president": {
+            "name": "Dr. Jitesh Nair",
+            "phone": "+919196378519"
+          },
+          "tehsils": [
+            {
+              "name": "Kurukshetra Zone A",
+              "tehsil_president": {
+                "name": "Dr. Gupta Yadav",
+                "phone": "+917455027922"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kaithal",
+          "district_president": {
+            "name": "Dr. Umesh Agarwal",
+            "phone": "+918474595117"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Umesh Saxena",
+                "phone": "+919735517232"
+              }
+            },
+            {
+              "name": "Kaithal Zone B",
+              "tehsil_president": {
+                "name": "Shri Krishna Pandey",
+                "phone": "+918771685559"
+              }
+            },
+            {
+              "name": "Kaithal Zone C",
+              "tehsil_president": {
+                "name": "Shri Alok Bhatt",
+                "phone": "+918984651885"
+              }
+            },
+            {
+              "name": "Kaithal Zone D",
+              "tehsil_president": {
+                "name": "Shri Chetan Chopra",
+                "phone": "+916906850672"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Karnal",
+          "district_president": {
+            "name": "Shri Alok Verma",
+            "phone": "+917269118519"
+          },
+          "tehsils": [
+            {
+              "name": "Karnal Zone A",
+              "tehsil_president": {
+                "name": "Shri Mohan Gupta",
+                "phone": "+918895495390"
+              }
+            },
+            {
+              "name": "Karnal Zone B",
+              "tehsil_president": {
+                "name": "Dr. Pramod Dwivedi",
+                "phone": "+916222146757"
+              }
+            },
+            {
+              "name": "Karnal Zone C",
+              "tehsil_president": {
+                "name": "Prof. Varun Malhotra",
+                "phone": "+918298375482"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Panipat",
+          "district_president": {
+            "name": "Prof. Narayan Gupta",
+            "phone": "+918974648465"
+          },
+          "tehsils": [
+            {
+              "name": "Panipat Zone A",
+              "tehsil_president": {
+                "name": "Prof. Satish Rathore",
+                "phone": "+917367924932"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sonipat",
+          "district_president": {
+            "name": "Shri Jagdish Pawar",
+            "phone": "+917278403955"
+          },
+          "tehsils": [
+            {
+              "name": "Sonipat Zone A",
+              "tehsil_president": {
+                "name": "Prof. Mahendra Gupta",
+                "phone": "+918961139266"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Ashish Chauhan",
+                "phone": "+917769826578"
+              }
+            },
+            {
+              "name": "Sonipat Zone C",
+              "tehsil_president": {
+                "name": "Dr. Jitendra Rao",
+                "phone": "+916243892576"
+              }
+            },
+            {
+              "name": "Sonipat Zone D",
+              "tehsil_president": {
+                "name": "Dr. Jagdish Malhotra",
+                "phone": "+917536837826"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Himachal Pradesh",
+      "districts": [
+        {
+          "name": "Chamba",
+          "district_president": {
+            "name": "Shri Arun Mishra",
+            "phone": "+919200804484"
+          },
+          "tehsils": [
+            {
+              "name": "Chamba Zone A",
+              "tehsil_president": {
+                "name": "Dr. Prakash Shah",
+                "phone": "+917474355784"
+              }
+            },
+            {
+              "name": "Chamba Zone B",
+              "tehsil_president": {
+                "name": "Shri Rohit Pawar",
+                "phone": "+918037394210"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kangra",
+          "district_president": {
+            "name": "Adv. Krishna Kapoor",
+            "phone": "+916262273448"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Ganesh Chopra",
+                "phone": "+918099571220"
+              }
+            },
+            {
+              "name": "Kangra Zone B",
+              "tehsil_president": {
+                "name": "Adv. Devendra Trivedi",
+                "phone": "+917885498011"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Rajesh Bhatt",
+                "phone": "+918882583190"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Lahul and Spiti",
+          "district_president": {
+            "name": "Prof. Mohit Trivedi",
+            "phone": "+916556969423"
+          },
+          "tehsils": [
+            {
+              "name": "Lahul and Spiti Zone A",
+              "tehsil_president": {
+                "name": "Dr. Anand Shah",
+                "phone": "+916951542248"
+              }
+            },
+            {
+              "name": "Lahul and Spiti Zone B",
+              "tehsil_president": {
+                "name": "Prof. Surendra Tiwari",
+                "phone": "+917799275346"
+              }
+            },
+            {
+              "name": "Lahul and Spiti Zone C",
+              "tehsil_president": {
+                "name": "Shri Harish Dwivedi",
+                "phone": "+918966570422"
+              }
+            },
+            {
+              "name": "Lahul and Spiti Zone D",
+              "tehsil_president": {
+                "name": "Shri Vinod Gupta",
+                "phone": "+916041015449"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kullu",
+          "district_president": {
+            "name": "Prof. Suresh Iyer",
+            "phone": "+916239402434"
+          },
+          "tehsils": [
+            {
+              "name": "Kullu Zone A",
+              "tehsil_president": {
+                "name": "Dr. Lakshman Kulkarni",
+                "phone": "+918863046502"
+              }
+            },
+            {
+              "name": "Kullu Zone B",
+              "tehsil_president": {
+                "name": "Adv. Ram Kulkarni",
+                "phone": "+916020282581"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Dhruv Agarwal",
+                "phone": "+917532574893"
+              }
+            },
+            {
+              "name": "Kullu Zone D",
+              "tehsil_president": {
+                "name": "Prof. Tanmay Trivedi",
+                "phone": "+918131905180"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Mandi",
+          "district_president": {
+            "name": "Adv. Mahesh Gupta",
+            "phone": "+916059814799"
+          },
+          "tehsils": [
+            {
+              "name": "Mandi Zone A",
+              "tehsil_president": {
+                "name": "Shri Kumar Tiwari",
+                "phone": "+917450183727"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Ram Shah",
+                "phone": "+919294056680"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Hamirpur",
+          "district_president": {
+            "name": "Adv. Dhruv Jain",
+            "phone": "+919855079157"
+          },
+          "tehsils": [
+            {
+              "name": "Hamirpur Zone A",
+              "tehsil_president": {
+                "name": "Adv. Mahesh Sharma",
+                "phone": "+919436004290"
+              }
+            },
+            {
+              "name": "Hamirpur Zone B",
+              "tehsil_president": {
+                "name": "Prof. Gaurav Iyengar",
+                "phone": "+919911601662"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Una",
+          "district_president": {
+            "name": "Adv. Tanmay Yadav",
+            "phone": "+918138349586"
+          },
+          "tehsils": [
+            {
+              "name": "Una Zone A",
+              "tehsil_president": {
+                "name": "Adv. Kabir Rathore",
+                "phone": "+918595907924"
+              }
+            },
+            {
+              "name": "Una Zone B",
+              "tehsil_president": {
+                "name": "Shri Shyam Pandey",
+                "phone": "+917474615290"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bilaspur",
+          "district_president": {
+            "name": "Shri Lakshman Kumar",
+            "phone": "+916589423521"
+          },
+          "tehsils": [
+            {
+              "name": "Bilaspur Zone A",
+              "tehsil_president": {
+                "name": "Shri Naresh Arora",
+                "phone": "+918159865096"
+              }
+            },
+            {
+              "name": "Bilaspur Zone B",
+              "tehsil_president": {
+                "name": "Prof. Ajay Nair",
+                "phone": "+919694922948"
+              }
+            },
+            {
+              "name": "Bilaspur Zone C",
+              "tehsil_president": {
+                "name": "Shri Hari Iyengar",
+                "phone": "+916520612271"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Dharmendra Yadav",
+                "phone": "+918804174073"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "districts": [
+        {
+          "name": "Kupwara",
+          "district_president": {
+            "name": "Dr. Nikhil Thakur",
+            "phone": "+919620911051"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Harish Singh",
+                "phone": "+918848451807"
+              }
+            },
+            {
+              "name": "Kupwara Zone B",
+              "tehsil_president": {
+                "name": "Shri Ashok Bhatt",
+                "phone": "+919583330975"
+              }
+            },
+            {
+              "name": "Kupwara Zone C",
+              "tehsil_president": {
+                "name": "Dr. Neeraj Singh",
+                "phone": "+916651921837"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Baramula",
+          "district_president": {
+            "name": "Dr. Manoj Nair",
+            "phone": "+916986642987"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Hitesh Arora",
+                "phone": "+918000191165"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bandipore",
+          "district_president": {
+            "name": "Shri Ram Rao",
+            "phone": "+919855803126"
+          },
+          "tehsils": [
+            {
+              "name": "Bandipore Zone A",
+              "tehsil_president": {
+                "name": "Prof. Lalit Bhatia",
+                "phone": "+919061702519"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Srinagar",
+          "district_president": {
+            "name": "Shri Mohan Trivedi",
+            "phone": "+919157430981"
+          },
+          "tehsils": [
+            {
+              "name": "Srinagar Zone A",
+              "tehsil_president": {
+                "name": "Prof. Tarun Tandon",
+                "phone": "+918904474589"
+              }
+            },
+            {
+              "name": "Srinagar Zone B",
+              "tehsil_president": {
+                "name": "Dr. Rajesh Thakur",
+                "phone": "+919913718918"
+              }
+            },
+            {
+              "name": "Srinagar Zone C",
+              "tehsil_president": {
+                "name": "Shri Umesh Thakur",
+                "phone": "+917999144181"
+              }
+            },
+            {
+              "name": "Srinagar Zone D",
+              "tehsil_president": {
+                "name": "Prof. Lalit Rao",
+                "phone": "+919163680296"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Ganderbal",
+          "district_president": {
+            "name": "Shri Ravi Saxena",
+            "phone": "+916237290098"
+          },
+          "tehsils": [
+            {
+              "name": "Ganderbal Zone A",
+              "tehsil_president": {
+                "name": "Adv. Chetan Srivastava",
+                "phone": "+918088275976"
+              }
+            },
+            {
+              "name": "Ganderbal Zone B",
+              "tehsil_president": {
+                "name": "Adv. Alok Rao",
+                "phone": "+917649255373"
+              }
+            },
+            {
+              "name": "Ganderbal Zone C",
+              "tehsil_president": {
+                "name": "Dr. Girish Arora",
+                "phone": "+918609910294"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Surendra Trivedi",
+                "phone": "+916270283118"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Pulwama",
+          "district_president": {
+            "name": "Adv. Gaurav Mathur",
+            "phone": "+917508196868"
+          },
+          "tehsils": [
+            {
+              "name": "Pulwama Zone A",
+              "tehsil_president": {
+                "name": "Shri Anand Gupta",
+                "phone": "+919185481966"
+              }
+            },
+            {
+              "name": "Pulwama Zone B",
+              "tehsil_president": {
+                "name": "Prof. Krishna Naidu",
+                "phone": "+919439128663"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Shyam Mathur",
+                "phone": "+916061844807"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Shupiyan",
+          "district_president": {
+            "name": "Dr. Atul Chopra",
+            "phone": "+916887524359"
+          },
+          "tehsils": [
+            {
+              "name": "Shupiyan Zone A",
+              "tehsil_president": {
+                "name": "Prof. Ankit Mehta",
+                "phone": "+916195679854"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Amit Saxena",
+                "phone": "+918656508137"
+              }
+            },
+            {
+              "name": "Shupiyan Zone C",
+              "tehsil_president": {
+                "name": "Dr. Gaurav Iyengar",
+                "phone": "+919503415494"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Anantnag",
+          "district_president": {
+            "name": "Shri Gaurav Trivedi",
+            "phone": "+917165942626"
+          },
+          "tehsils": [
+            {
+              "name": "Anantnag Zone A",
+              "tehsil_president": {
+                "name": "Prof. Kumar Tandon",
+                "phone": "+919954018098"
+              }
+            },
+            {
+              "name": "Anantnag Zone B",
+              "tehsil_president": {
+                "name": "Adv. Arun Chopra",
+                "phone": "+916802916136"
+              }
+            },
+            {
+              "name": "Anantnag Zone C",
+              "tehsil_president": {
+                "name": "Prof. Vijay Mehta",
+                "phone": "+919638558599"
+              }
+            },
+            {
+              "name": "Anantnag Zone D",
+              "tehsil_president": {
+                "name": "Prof. Rakesh Saxena",
+                "phone": "+919512271577"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Jharkhand",
+      "districts": [
+        {
+          "name": "Garhwa",
+          "district_president": {
+            "name": "Prof. Umesh Rathore",
+            "phone": "+917858571339"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Sohan Rathore",
+                "phone": "+919272727747"
+              }
+            },
+            {
+              "name": "Garhwa Zone B",
+              "tehsil_president": {
+                "name": "Shri Varun Mishra",
+                "phone": "+919477973070"
+              }
+            },
+            {
+              "name": "Garhwa Zone C",
+              "tehsil_president": {
+                "name": "Prof. Rajdeep Sharma",
+                "phone": "+918493671056"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Chatra",
+          "district_president": {
+            "name": "Adv. Krishna Yadav",
+            "phone": "+919093530125"
+          },
+          "tehsils": [
+            {
+              "name": "Chatra Zone A",
+              "tehsil_president": {
+                "name": "Shri Ashok Pawar",
+                "phone": "+919949781827"
+              }
+            },
+            {
+              "name": "Chatra Zone B",
+              "tehsil_president": {
+                "name": "Shri Shiva Reddy",
+                "phone": "+919976015836"
+              }
+            },
+            {
+              "name": "Chatra Zone C",
+              "tehsil_president": {
+                "name": "Dr. Rohan Kulkarni",
+                "phone": "+918576920785"
+              }
+            },
+            {
+              "name": "Chatra Zone D",
+              "tehsil_president": {
+                "name": "Shri Umesh Singh",
+                "phone": "+916618570246"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kodarma",
+          "district_president": {
+            "name": "Dr. Surendra Rathore",
+            "phone": "+917077504249"
+          },
+          "tehsils": [
+            {
+              "name": "Kodarma Zone A",
+              "tehsil_president": {
+                "name": "Prof. Atul Iyer",
+                "phone": "+917169682290"
+              }
+            },
+            {
+              "name": "Kodarma Zone B",
+              "tehsil_president": {
+                "name": "Prof. Arun Bhatt",
+                "phone": "+916734932713"
+              }
+            },
+            {
+              "name": "Kodarma Zone C",
+              "tehsil_president": {
+                "name": "Dr. Saurabh Desai",
+                "phone": "+918465212379"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Giridih",
+          "district_president": {
+            "name": "Shri Keshav Reddy",
+            "phone": "+918776272368"
+          },
+          "tehsils": [
+            {
+              "name": "Giridih Zone A",
+              "tehsil_president": {
+                "name": "Adv. Rajdeep Iyer",
+                "phone": "+916865606535"
+              }
+            },
+            {
+              "name": "Giridih Zone B",
+              "tehsil_president": {
+                "name": "Prof. Ritesh Pawar",
+                "phone": "+919446967773"
+              }
+            },
+            {
+              "name": "Giridih Zone C",
+              "tehsil_president": {
+                "name": "Adv. Keshav Joshi",
+                "phone": "+917920680623"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Narayan Sharma",
+                "phone": "+917820773324"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Deoghar",
+          "district_president": {
+            "name": "Prof. Chetan Kumar",
+            "phone": "+916354065152"
+          },
+          "tehsils": [
+            {
+              "name": "Deoghar Zone A",
+              "tehsil_president": {
+                "name": "Prof. Yogesh Bhatt",
+                "phone": "+919601449241"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Godda",
+          "district_president": {
+            "name": "Dr. Gupta Malhotra",
+            "phone": "+918149827765"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Ram Bhatt",
+                "phone": "+917160367560"
+              }
+            },
+            {
+              "name": "Godda Zone B",
+              "tehsil_president": {
+                "name": "Dr. Prakash Bhatia",
+                "phone": "+916557087212"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Kunal Dubey",
+                "phone": "+919627611574"
+              }
+            },
+            {
+              "name": "Godda Zone D",
+              "tehsil_president": {
+                "name": "Dr. Ramesh Deshpande",
+                "phone": "+919074269165"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sahibganj",
+          "district_president": {
+            "name": "Prof. Deepak Mishra",
+            "phone": "+918649785863"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Shiva Yadav",
+                "phone": "+917351254491"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Pakur",
+          "district_president": {
+            "name": "Dr. Ramesh Mishra",
+            "phone": "+919458703200"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Verma Shah",
+                "phone": "+917602217125"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Gupta Saxena",
+                "phone": "+917978572781"
+              }
+            },
+            {
+              "name": "Pakur Zone C",
+              "tehsil_president": {
+                "name": "Adv. Chetan Verma",
+                "phone": "+917805390306"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Govind Sharma",
+                "phone": "+917127782516"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Karnataka",
+      "districts": [
+        {
+          "name": "Belgaum",
+          "district_president": {
+            "name": "Adv. Mukesh Jain",
+            "phone": "+917069338447"
+          },
+          "tehsils": [
+            {
+              "name": "Belgaum Zone A",
+              "tehsil_president": {
+                "name": "Adv. Manoj Dwivedi",
+                "phone": "+919479933820"
+              }
+            },
+            {
+              "name": "Belgaum Zone B",
+              "tehsil_president": {
+                "name": "Adv. Lalit Yadav",
+                "phone": "+917405845025"
+              }
+            },
+            {
+              "name": "Belgaum Zone C",
+              "tehsil_president": {
+                "name": "Prof. Manoj Reddy",
+                "phone": "+916923239713"
+              }
+            },
+            {
+              "name": "Belgaum Zone D",
+              "tehsil_president": {
+                "name": "Dr. Kiran Bhatt",
+                "phone": "+916700961751"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bagalkot",
+          "district_president": {
+            "name": "Adv. Jagdish Nair",
+            "phone": "+919714495395"
+          },
+          "tehsils": [
+            {
+              "name": "Bagalkot Zone A",
+              "tehsil_president": {
+                "name": "Dr. Ram Naidu",
+                "phone": "+916146471040"
+              }
+            },
+            {
+              "name": "Bagalkot Zone B",
+              "tehsil_president": {
+                "name": "Dr. Ritesh Mehta",
+                "phone": "+918591521291"
+              }
+            },
+            {
+              "name": "Bagalkot Zone C",
+              "tehsil_president": {
+                "name": "Dr. Jitesh Chaturvedi",
+                "phone": "+917751963601"
+              }
+            },
+            {
+              "name": "Bagalkot Zone D",
+              "tehsil_president": {
+                "name": "Shri Satish Chopra",
+                "phone": "+918429529896"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bijapur",
+          "district_president": {
+            "name": "Dr. Yogesh Naidu",
+            "phone": "+917988464679"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Kunal Patel",
+                "phone": "+919713047572"
+              }
+            },
+            {
+              "name": "Bijapur Zone B",
+              "tehsil_president": {
+                "name": "Adv. Mohit Nair",
+                "phone": "+918912493939"
+              }
+            },
+            {
+              "name": "Bijapur Zone C",
+              "tehsil_president": {
+                "name": "Shri Mukesh Jain",
+                "phone": "+918734279009"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Manoj Mathur",
+                "phone": "+919675263251"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Gulbarga",
+          "district_president": {
+            "name": "Prof. Ajay Mathur",
+            "phone": "+917902226918"
+          },
+          "tehsils": [
+            {
+              "name": "Gulbarga Zone A",
+              "tehsil_president": {
+                "name": "Dr. Devendra Tiwari",
+                "phone": "+919332295992"
+              }
+            },
+            {
+              "name": "Gulbarga Zone B",
+              "tehsil_president": {
+                "name": "Shri Girish Jain",
+                "phone": "+919147445370"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Amit Saxena",
+                "phone": "+917114568570"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bidar",
+          "district_president": {
+            "name": "Prof. Dhruv Kumar",
+            "phone": "+917584466832"
+          },
+          "tehsils": [
+            {
+              "name": "Bidar Zone A",
+              "tehsil_president": {
+                "name": "Adv. Gaurav Joshi",
+                "phone": "+918849853681"
+              }
+            },
+            {
+              "name": "Bidar Zone B",
+              "tehsil_president": {
+                "name": "Dr. Pramod Pandey",
+                "phone": "+916905023388"
+              }
+            },
+            {
+              "name": "Bidar Zone C",
+              "tehsil_president": {
+                "name": "Dr. Mahesh Bhatt",
+                "phone": "+917785743342"
+              }
+            },
+            {
+              "name": "Bidar Zone D",
+              "tehsil_president": {
+                "name": "Dr. Ram Verma",
+                "phone": "+916969622930"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Raichur",
+          "district_president": {
+            "name": "Shri Sunil Jain",
+            "phone": "+917176901726"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Arun Nair",
+                "phone": "+916879146393"
+              }
+            },
+            {
+              "name": "Raichur Zone B",
+              "tehsil_president": {
+                "name": "Shri Jitendra Iyer",
+                "phone": "+916214673463"
+              }
+            },
+            {
+              "name": "Raichur Zone C",
+              "tehsil_president": {
+                "name": "Adv. Alok Verma",
+                "phone": "+919289571720"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Anil Pandey",
+                "phone": "+917093662702"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Koppal",
+          "district_president": {
+            "name": "Dr. Sunil Nair",
+            "phone": "+918450380373"
+          },
+          "tehsils": [
+            {
+              "name": "Koppal Zone A",
+              "tehsil_president": {
+                "name": "Adv. Chetan Patel",
+                "phone": "+919831625046"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Narendra Arora",
+                "phone": "+918650444377"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Gadag",
+          "district_president": {
+            "name": "Shri Deepak Pawar",
+            "phone": "+916143745893"
+          },
+          "tehsils": [
+            {
+              "name": "Gadag Zone A",
+              "tehsil_president": {
+                "name": "Prof. Jitendra Iyengar",
+                "phone": "+917339484160"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "districts": [
+        {
+          "name": "Kasaragod",
+          "district_president": {
+            "name": "Adv. Ram Patel",
+            "phone": "+917759613777"
+          },
+          "tehsils": [
+            {
+              "name": "Kasaragod Zone A",
+              "tehsil_president": {
+                "name": "Shri Kabir Mathur",
+                "phone": "+919707372287"
+              }
+            },
+            {
+              "name": "Kasaragod Zone B",
+              "tehsil_president": {
+                "name": "Shri Surendra Jain",
+                "phone": "+919186343443"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Bhuvan Bhatia",
+                "phone": "+916117892389"
+              }
+            },
+            {
+              "name": "Kasaragod Zone D",
+              "tehsil_president": {
+                "name": "Shri Ram Kulkarni",
+                "phone": "+917311928130"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kannur",
+          "district_president": {
+            "name": "Adv. Ritesh Rathore",
+            "phone": "+917761737434"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Manoj Pandey",
+                "phone": "+916040358090"
+              }
+            },
+            {
+              "name": "Kannur Zone B",
+              "tehsil_president": {
+                "name": "Shri Rakesh Chauhan",
+                "phone": "+918270566715"
+              }
+            },
+            {
+              "name": "Kannur Zone C",
+              "tehsil_president": {
+                "name": "Dr. Madhav Singh",
+                "phone": "+919249834376"
+              }
+            },
+            {
+              "name": "Kannur Zone D",
+              "tehsil_president": {
+                "name": "Dr. Pramod Chauhan",
+                "phone": "+918508892161"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Wayanad",
+          "district_president": {
+            "name": "Dr. Dharmendra Saxena",
+            "phone": "+916605695790"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Shankar Jain",
+                "phone": "+916736397668"
+              }
+            },
+            {
+              "name": "Wayanad Zone B",
+              "tehsil_president": {
+                "name": "Dr. Sandeep Dubey",
+                "phone": "+918154434810"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kozhikode",
+          "district_president": {
+            "name": "Prof. Vishnu Iyer",
+            "phone": "+918118440903"
+          },
+          "tehsils": [
+            {
+              "name": "Kozhikode Zone A",
+              "tehsil_president": {
+                "name": "Dr. Tarun Iyer",
+                "phone": "+918347236761"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Anil Iyengar",
+                "phone": "+916218616407"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Ajay Agarwal",
+                "phone": "+919817363047"
+              }
+            },
+            {
+              "name": "Kozhikode Zone D",
+              "tehsil_president": {
+                "name": "Shri Hari Kulkarni",
+                "phone": "+919016144698"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Malappuram",
+          "district_president": {
+            "name": "Prof. Ashok Pawar",
+            "phone": "+919175725891"
+          },
+          "tehsils": [
+            {
+              "name": "Malappuram Zone A",
+              "tehsil_president": {
+                "name": "Prof. Shankar Tandon",
+                "phone": "+918427455700"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Narayan Naidu",
+                "phone": "+919468416731"
+              }
+            },
+            {
+              "name": "Malappuram Zone C",
+              "tehsil_president": {
+                "name": "Dr. Raghav Iyer",
+                "phone": "+917601020825"
+              }
+            },
+            {
+              "name": "Malappuram Zone D",
+              "tehsil_president": {
+                "name": "Dr. Ram Naidu",
+                "phone": "+916337258009"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Palakkad",
+          "district_president": {
+            "name": "Dr. Anand Srivastava",
+            "phone": "+918325702299"
+          },
+          "tehsils": [
+            {
+              "name": "Palakkad Zone A",
+              "tehsil_president": {
+                "name": "Shri Shyam Mehta",
+                "phone": "+919046172872"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Ajay Chaturvedi",
+                "phone": "+918843987075"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Thrissur",
+          "district_president": {
+            "name": "Dr. Dharmendra Verma",
+            "phone": "+919709718967"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Dinesh Verma",
+                "phone": "+918622151852"
+              }
+            },
+            {
+              "name": "Thrissur Zone B",
+              "tehsil_president": {
+                "name": "Adv. Kumar Rathore",
+                "phone": "+917786631338"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Bhuvan Desai",
+                "phone": "+919793532936"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Shyam Rao",
+                "phone": "+917778604431"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Ernakulam",
+          "district_president": {
+            "name": "Dr. Umesh Saxena",
+            "phone": "+916095384844"
+          },
+          "tehsils": [
+            {
+              "name": "Ernakulam Zone A",
+              "tehsil_president": {
+                "name": "Prof. Keshav Trivedi",
+                "phone": "+916274702746"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Madhya Pradesh",
+      "districts": [
+        {
+          "name": "Sheopur",
+          "district_president": {
+            "name": "Shri Nakul Gupta",
+            "phone": "+919232086395"
+          },
+          "tehsils": [
+            {
+              "name": "Sheopur Zone A",
+              "tehsil_president": {
+                "name": "Dr. Narendra Kulkarni",
+                "phone": "+918974502870"
+              }
+            },
+            {
+              "name": "Sheopur Zone B",
+              "tehsil_president": {
+                "name": "Adv. Ravi Desai",
+                "phone": "+916032910273"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Jitendra Saxena",
+                "phone": "+916734894039"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Dharmendra Khanna",
+                "phone": "+918146533270"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Morena",
+          "district_president": {
+            "name": "Adv. Nikhil Nair",
+            "phone": "+918535704529"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Pankaj Bhatt",
+                "phone": "+917583976739"
+              }
+            },
+            {
+              "name": "Morena Zone B",
+              "tehsil_president": {
+                "name": "Prof. Ganesh Deshpande",
+                "phone": "+917869459252"
+              }
+            },
+            {
+              "name": "Morena Zone C",
+              "tehsil_president": {
+                "name": "Dr. Narendra Bhatia",
+                "phone": "+918343883216"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bhind",
+          "district_president": {
+            "name": "Prof. Keshav Pawar",
+            "phone": "+917375076989"
+          },
+          "tehsils": [
+            {
+              "name": "Bhind Zone A",
+              "tehsil_president": {
+                "name": "Dr. Sanjay Chauhan",
+                "phone": "+918589534302"
+              }
+            },
+            {
+              "name": "Bhind Zone B",
+              "tehsil_president": {
+                "name": "Prof. Jitesh Kulkarni",
+                "phone": "+918384317538"
+              }
+            },
+            {
+              "name": "Bhind Zone C",
+              "tehsil_president": {
+                "name": "Prof. Raghav Chauhan",
+                "phone": "+917800574056"
+              }
+            },
+            {
+              "name": "Bhind Zone D",
+              "tehsil_president": {
+                "name": "Prof. Anil Desai",
+                "phone": "+919311531039"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Gwalior",
+          "district_president": {
+            "name": "Prof. Rohit Deshpande",
+            "phone": "+916919397508"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Ajay Joshi",
+                "phone": "+916481803348"
+              }
+            },
+            {
+              "name": "Gwalior Zone B",
+              "tehsil_president": {
+                "name": "Shri Anand Agarwal",
+                "phone": "+917301852754"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Datia",
+          "district_president": {
+            "name": "Shri Naresh Pandey",
+            "phone": "+917022947171"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Nikhil Chopra",
+                "phone": "+919223853630"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Shivpuri",
+          "district_president": {
+            "name": "Shri Ashok Chopra",
+            "phone": "+918702258901"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Govind Sharma",
+                "phone": "+917171321524"
+              }
+            },
+            {
+              "name": "Shivpuri Zone B",
+              "tehsil_president": {
+                "name": "Adv. Kunal Arora",
+                "phone": "+919821093386"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Guna",
+          "district_president": {
+            "name": "Dr. Narayan Pawar",
+            "phone": "+917877831910"
+          },
+          "tehsils": [
+            {
+              "name": "Guna Zone A",
+              "tehsil_president": {
+                "name": "Prof. Dhruv Jain",
+                "phone": "+917647507442"
+              }
+            },
+            {
+              "name": "Guna Zone B",
+              "tehsil_president": {
+                "name": "Shri Lalit Tandon",
+                "phone": "+919846752050"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Ashoknagar",
+          "district_president": {
+            "name": "Prof. Kuldeep Chopra",
+            "phone": "+917023014982"
+          },
+          "tehsils": [
+            {
+              "name": "Ashoknagar Zone A",
+              "tehsil_president": {
+                "name": "Shri Pramod Deshpande",
+                "phone": "+918693949435"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Maharashtra",
+      "districts": [
+        {
+          "name": "Nandurbar",
+          "district_president": {
+            "name": "Prof. Sunil Trivedi",
+            "phone": "+918812061692"
+          },
+          "tehsils": [
+            {
+              "name": "Nandurbar Zone A",
+              "tehsil_president": {
+                "name": "Prof. Anand Iyer",
+                "phone": "+919755022496"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Dhule",
+          "district_president": {
+            "name": "Prof. Anil Mathur",
+            "phone": "+917439534105"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Lakshman Arora",
+                "phone": "+918459769111"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Jalgaon",
+          "district_president": {
+            "name": "Shri Vishnu Joshi",
+            "phone": "+916600190473"
+          },
+          "tehsils": [
+            {
+              "name": "Jalgaon Zone A",
+              "tehsil_president": {
+                "name": "Dr. Neeraj Deshpande",
+                "phone": "+919791934864"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Ankit Naidu",
+                "phone": "+919066232221"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Buldana",
+          "district_president": {
+            "name": "Dr. Kunal Rathore",
+            "phone": "+919620019399"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Suresh Jain",
+                "phone": "+918111377733"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Akola",
+          "district_president": {
+            "name": "Adv. Madan Shah",
+            "phone": "+916353568359"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Alok Pandey",
+                "phone": "+916169426350"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Dharmendra Rathore",
+                "phone": "+919497280231"
+              }
+            },
+            {
+              "name": "Akola Zone C",
+              "tehsil_president": {
+                "name": "Dr. Gopal Chaturvedi",
+                "phone": "+916978583887"
+              }
+            },
+            {
+              "name": "Akola Zone D",
+              "tehsil_president": {
+                "name": "Prof. Kabir Iyer",
+                "phone": "+918402832793"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Washim",
+          "district_president": {
+            "name": "Prof. Rohan Trivedi",
+            "phone": "+916689009171"
+          },
+          "tehsils": [
+            {
+              "name": "Washim Zone A",
+              "tehsil_president": {
+                "name": "Prof. Gupta Kumar",
+                "phone": "+916471292944"
+              }
+            },
+            {
+              "name": "Washim Zone B",
+              "tehsil_president": {
+                "name": "Shri Kumar Shah",
+                "phone": "+917937294381"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Amravati",
+          "district_president": {
+            "name": "Prof. Kunal Saxena",
+            "phone": "+919744757446"
+          },
+          "tehsils": [
+            {
+              "name": "Amravati Zone A",
+              "tehsil_president": {
+                "name": "Shri Gupta Mishra",
+                "phone": "+919948797408"
+              }
+            },
+            {
+              "name": "Amravati Zone B",
+              "tehsil_president": {
+                "name": "Dr. Mahendra Chaturvedi",
+                "phone": "+918242148299"
+              }
+            },
+            {
+              "name": "Amravati Zone C",
+              "tehsil_president": {
+                "name": "Dr. Vijay Khanna",
+                "phone": "+918826162942"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Wardha",
+          "district_president": {
+            "name": "Adv. Ram Bhatia",
+            "phone": "+917210608764"
+          },
+          "tehsils": [
+            {
+              "name": "Wardha Zone A",
+              "tehsil_president": {
+                "name": "Prof. Kuldeep Joshi",
+                "phone": "+919303316085"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Manipur",
+      "districts": [
+        {
+          "name": "Senapati",
+          "district_president": {
+            "name": "Prof. Rohan Sharma",
+            "phone": "+917261209079"
+          },
+          "tehsils": [
+            {
+              "name": "Senapati Zone A",
+              "tehsil_president": {
+                "name": "Shri Prakash Thakur",
+                "phone": "+916359942959"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Kunal Arora",
+                "phone": "+916079216525"
+              }
+            },
+            {
+              "name": "Senapati Zone C",
+              "tehsil_president": {
+                "name": "Adv. Deepak Mishra",
+                "phone": "+916491492197"
+              }
+            },
+            {
+              "name": "Senapati Zone D",
+              "tehsil_president": {
+                "name": "Dr. Harsh Pawar",
+                "phone": "+917824672149"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Tamenglong",
+          "district_president": {
+            "name": "Adv. Kabir Gupta",
+            "phone": "+919084306518"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Devendra Kulkarni",
+                "phone": "+917737183426"
+              }
+            },
+            {
+              "name": "Tamenglong Zone B",
+              "tehsil_president": {
+                "name": "Prof. Dhruv Tandon",
+                "phone": "+918842225540"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Churachandpur",
+          "district_president": {
+            "name": "Dr. Pranav Bhatia",
+            "phone": "+919401187657"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Anand Bhatt",
+                "phone": "+919426032467"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Hitesh Iyengar",
+                "phone": "+918541789681"
+              }
+            },
+            {
+              "name": "Churachandpur Zone C",
+              "tehsil_president": {
+                "name": "Prof. Jitendra Reddy",
+                "phone": "+919199350408"
+              }
+            },
+            {
+              "name": "Churachandpur Zone D",
+              "tehsil_president": {
+                "name": "Dr. Ritesh Mishra",
+                "phone": "+917645330217"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bishnupur",
+          "district_president": {
+            "name": "Shri Pramod Iyer",
+            "phone": "+918580349212"
+          },
+          "tehsils": [
+            {
+              "name": "Bishnupur Zone A",
+              "tehsil_president": {
+                "name": "Dr. Suresh Dwivedi",
+                "phone": "+916868295411"
+              }
+            },
+            {
+              "name": "Bishnupur Zone B",
+              "tehsil_president": {
+                "name": "Prof. Ravi Agarwal",
+                "phone": "+919357774587"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Thoubal",
+          "district_president": {
+            "name": "Shri Mahesh Agarwal",
+            "phone": "+919964804953"
+          },
+          "tehsils": [
+            {
+              "name": "Thoubal Zone A",
+              "tehsil_president": {
+                "name": "Prof. Singh Nair",
+                "phone": "+917861904969"
+              }
+            },
+            {
+              "name": "Thoubal Zone B",
+              "tehsil_president": {
+                "name": "Adv. Rohan Naidu",
+                "phone": "+919413818078"
+              }
+            },
+            {
+              "name": "Thoubal Zone C",
+              "tehsil_president": {
+                "name": "Adv. Krishna Trivedi",
+                "phone": "+916373818993"
+              }
+            },
+            {
+              "name": "Thoubal Zone D",
+              "tehsil_president": {
+                "name": "Dr. Hitesh Sharma",
+                "phone": "+918999496368"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Imphal West",
+          "district_president": {
+            "name": "Adv. Sumit Nair",
+            "phone": "+919753184125"
+          },
+          "tehsils": [
+            {
+              "name": "Imphal West Zone A",
+              "tehsil_president": {
+                "name": "Prof. Sumit Singh",
+                "phone": "+917051820018"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Imphal East",
+          "district_president": {
+            "name": "Shri Ravi Thakur",
+            "phone": "+917466748488"
+          },
+          "tehsils": [
+            {
+              "name": "Imphal East Zone A",
+              "tehsil_president": {
+                "name": "Shri Mukesh Mishra",
+                "phone": "+916525098891"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Raghav Deshpande",
+                "phone": "+919431629599"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Saurabh Kulkarni",
+                "phone": "+919266971951"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Ukhrul",
+          "district_president": {
+            "name": "Dr. Mohan Chopra",
+            "phone": "+917516075547"
+          },
+          "tehsils": [
+            {
+              "name": "Ukhrul Zone A",
+              "tehsil_president": {
+                "name": "Dr. Amit Nair",
+                "phone": "+916749085454"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Meghalaya",
+      "districts": [
+        {
+          "name": "West Garo Hills",
+          "district_president": {
+            "name": "Shri Umesh Rathore",
+            "phone": "+919356817304"
+          },
+          "tehsils": [
+            {
+              "name": "West Garo Hills Zone A",
+              "tehsil_president": {
+                "name": "Dr. Jagdish Desai",
+                "phone": "+918113580052"
+              }
+            }
+          ]
+        },
+        {
+          "name": "East Garo Hills",
+          "district_president": {
+            "name": "Dr. Lakshman Chauhan",
+            "phone": "+918993277303"
+          },
+          "tehsils": [
+            {
+              "name": "East Garo Hills Zone A",
+              "tehsil_president": {
+                "name": "Dr. Sunil Pandey",
+                "phone": "+917467179907"
+              }
+            },
+            {
+              "name": "East Garo Hills Zone B",
+              "tehsil_president": {
+                "name": "Adv. Prakash Mishra",
+                "phone": "+918995508477"
+              }
+            },
+            {
+              "name": "East Garo Hills Zone C",
+              "tehsil_president": {
+                "name": "Prof. Dinesh Chauhan",
+                "phone": "+916239978116"
+              }
+            }
+          ]
+        },
+        {
+          "name": "South Garo Hills",
+          "district_president": {
+            "name": "Adv. Kuldeep Chauhan",
+            "phone": "+917545670137"
+          },
+          "tehsils": [
+            {
+              "name": "South Garo Hills Zone A",
+              "tehsil_president": {
+                "name": "Dr. Hitesh Joshi",
+                "phone": "+918545446275"
+              }
+            },
+            {
+              "name": "South Garo Hills Zone B",
+              "tehsil_president": {
+                "name": "Prof. Rajesh Arora",
+                "phone": "+916844980547"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Rakesh Joshi",
+                "phone": "+918196078261"
+              }
+            },
+            {
+              "name": "South Garo Hills Zone D",
+              "tehsil_president": {
+                "name": "Dr. Keshav Kapoor",
+                "phone": "+919379385569"
+              }
+            }
+          ]
+        },
+        {
+          "name": "West Khasi Hills",
+          "district_president": {
+            "name": "Dr. Dhruv Jain",
+            "phone": "+919993092441"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Anand Khanna",
+                "phone": "+917048785146"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Ram Iyengar",
+                "phone": "+918032202395"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Ankit Bhatia",
+                "phone": "+919028605498"
+              }
+            },
+            {
+              "name": "West Khasi Hills Zone D",
+              "tehsil_president": {
+                "name": "Adv. Narendra Saxena",
+                "phone": "+916168964931"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Ri Bhoi",
+          "district_president": {
+            "name": "Adv. Narendra Patel",
+            "phone": "+919275896797"
+          },
+          "tehsils": [
+            {
+              "name": "Ri Bhoi Zone A",
+              "tehsil_president": {
+                "name": "Prof. Nakul Joshi",
+                "phone": "+916477976247"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Ashish Iyer",
+                "phone": "+919655569987"
+              }
+            }
+          ]
+        },
+        {
+          "name": "East Khasi Hills",
+          "district_president": {
+            "name": "Adv. Ankit Verma",
+            "phone": "+919507113656"
+          },
+          "tehsils": [
+            {
+              "name": "East Khasi Hills Zone A",
+              "tehsil_president": {
+                "name": "Shri Ankit Agarwal",
+                "phone": "+916831180787"
+              }
+            },
+            {
+              "name": "East Khasi Hills Zone B",
+              "tehsil_president": {
+                "name": "Adv. Chetan Sharma",
+                "phone": "+917586584873"
+              }
+            },
+            {
+              "name": "East Khasi Hills Zone C",
+              "tehsil_president": {
+                "name": "Shri Harish Chaturvedi",
+                "phone": "+919991368189"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Jaintia Hills",
+          "district_president": {
+            "name": "Prof. Neeraj Nair",
+            "phone": "+917940798790"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Raghav Pandey",
+                "phone": "+918816365785"
+              }
+            },
+            {
+              "name": "Jaintia Hills Zone B",
+              "tehsil_president": {
+                "name": "Dr. Dharmendra Shah",
+                "phone": "+919959197689"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Mizoram",
+      "districts": [
+        {
+          "name": "Mamit",
+          "district_president": {
+            "name": "Adv. Arun Joshi",
+            "phone": "+916245061982"
+          },
+          "tehsils": [
+            {
+              "name": "Mamit Zone A",
+              "tehsil_president": {
+                "name": "Prof. Govind Saxena",
+                "phone": "+919772675972"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Rohan Bhatt",
+                "phone": "+916871088326"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kolasib",
+          "district_president": {
+            "name": "Dr. Girish Dubey",
+            "phone": "+918265208850"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Jagdish Srivastava",
+                "phone": "+919450649754"
+              }
+            },
+            {
+              "name": "Kolasib Zone B",
+              "tehsil_president": {
+                "name": "Shri Mahesh Sharma",
+                "phone": "+918340976173"
+              }
+            },
+            {
+              "name": "Kolasib Zone C",
+              "tehsil_president": {
+                "name": "Prof. Kuldeep Chaturvedi",
+                "phone": "+918557746952"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Aizawl",
+          "district_president": {
+            "name": "Adv. Kumar Pawar",
+            "phone": "+918213135089"
+          },
+          "tehsils": [
+            {
+              "name": "Aizawl Zone A",
+              "tehsil_president": {
+                "name": "Adv. Verma Patel",
+                "phone": "+919900000693"
+              }
+            },
+            {
+              "name": "Aizawl Zone B",
+              "tehsil_president": {
+                "name": "Adv. Satish Tandon",
+                "phone": "+918804052026"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Mahendra Tandon",
+                "phone": "+918193718854"
+              }
+            },
+            {
+              "name": "Aizawl Zone D",
+              "tehsil_president": {
+                "name": "Prof. Amit Naidu",
+                "phone": "+918365849168"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Champhai",
+          "district_president": {
+            "name": "Adv. Vijay Agarwal",
+            "phone": "+919283801469"
+          },
+          "tehsils": [
+            {
+              "name": "Champhai Zone A",
+              "tehsil_president": {
+                "name": "Adv. Umesh Agarwal",
+                "phone": "+919767283545"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Raghav Desai",
+                "phone": "+916272571689"
+              }
+            },
+            {
+              "name": "Champhai Zone C",
+              "tehsil_president": {
+                "name": "Prof. Govind Gupta",
+                "phone": "+919859668812"
+              }
+            },
+            {
+              "name": "Champhai Zone D",
+              "tehsil_president": {
+                "name": "Dr. Mahesh Khanna",
+                "phone": "+917509508926"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Serchhip",
+          "district_president": {
+            "name": "Dr. Shiva Saxena",
+            "phone": "+919856514601"
+          },
+          "tehsils": [
+            {
+              "name": "Serchhip Zone A",
+              "tehsil_president": {
+                "name": "Adv. Lakshman Pawar",
+                "phone": "+917941341361"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Lunglei",
+          "district_president": {
+            "name": "Adv. Manoj Pawar",
+            "phone": "+918415058022"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Girish Joshi",
+                "phone": "+917436476791"
+              }
+            },
+            {
+              "name": "Lunglei Zone B",
+              "tehsil_president": {
+                "name": "Adv. Mohit Dubey",
+                "phone": "+919013181975"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Lawngtlai",
+          "district_president": {
+            "name": "Adv. Kabir Chopra",
+            "phone": "+919355784152"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Ajay Khanna",
+                "phone": "+919254216750"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Verma Tiwari",
+                "phone": "+918500737254"
+              }
+            },
+            {
+              "name": "Lawngtlai Zone C",
+              "tehsil_president": {
+                "name": "Shri Kunal Iyengar",
+                "phone": "+918808050191"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Saiha",
+          "district_president": {
+            "name": "Prof. Mahendra Arora",
+            "phone": "+918160625743"
+          },
+          "tehsils": [
+            {
+              "name": "Saiha Zone A",
+              "tehsil_president": {
+                "name": "Adv. Arun Singh",
+                "phone": "+917679382501"
+              }
+            },
+            {
+              "name": "Saiha Zone B",
+              "tehsil_president": {
+                "name": "Prof. Arun Nair",
+                "phone": "+918459134295"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Nagaland",
+      "districts": [
+        {
+          "name": "Mon",
+          "district_president": {
+            "name": "Adv. Sohan Rao",
+            "phone": "+919584546926"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Nakul Gupta",
+                "phone": "+918807715738"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Arun Dwivedi",
+                "phone": "+916666190280"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Tuensang",
+          "district_president": {
+            "name": "Dr. Harish Dwivedi",
+            "phone": "+918953031916"
+          },
+          "tehsils": [
+            {
+              "name": "Tuensang Zone A",
+              "tehsil_president": {
+                "name": "Shri Dinesh Chopra",
+                "phone": "+919058187252"
+              }
+            },
+            {
+              "name": "Tuensang Zone B",
+              "tehsil_president": {
+                "name": "Adv. Gopal Bhatt",
+                "phone": "+917104406778"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Mokokchung",
+          "district_president": {
+            "name": "Adv. Narayan Pandey",
+            "phone": "+918102198255"
+          },
+          "tehsils": [
+            {
+              "name": "Mokokchung Zone A",
+              "tehsil_president": {
+                "name": "Dr. Surendra Reddy",
+                "phone": "+916458637886"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Tarun Yadav",
+                "phone": "+919340957419"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Zunheboto",
+          "district_president": {
+            "name": "Shri Jagdish Joshi",
+            "phone": "+916629750869"
+          },
+          "tehsils": [
+            {
+              "name": "Zunheboto Zone A",
+              "tehsil_president": {
+                "name": "Dr. Rohan Desai",
+                "phone": "+917552921811"
+              }
+            },
+            {
+              "name": "Zunheboto Zone B",
+              "tehsil_president": {
+                "name": "Dr. Harish Deshpande",
+                "phone": "+916135901791"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Wokha",
+          "district_president": {
+            "name": "Shri Satish Malhotra",
+            "phone": "+918259886028"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Krishna Khanna",
+                "phone": "+919332155701"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Dimapur",
+          "district_president": {
+            "name": "Adv. Vishnu Tandon",
+            "phone": "+917274708156"
+          },
+          "tehsils": [
+            {
+              "name": "Dimapur Zone A",
+              "tehsil_president": {
+                "name": "Prof. Manoj Tandon",
+                "phone": "+917866968226"
+              }
+            },
+            {
+              "name": "Dimapur Zone B",
+              "tehsil_president": {
+                "name": "Dr. Kuldeep Khanna",
+                "phone": "+917768644623"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kohima",
+          "district_president": {
+            "name": "Prof. Lalit Agarwal",
+            "phone": "+919938761832"
+          },
+          "tehsils": [
+            {
+              "name": "Kohima Zone A",
+              "tehsil_president": {
+                "name": "Shri Singh Sharma",
+                "phone": "+919050783499"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Ishaan Iyengar",
+                "phone": "+917904079051"
+              }
+            },
+            {
+              "name": "Kohima Zone C",
+              "tehsil_president": {
+                "name": "Dr. Sharma Iyengar",
+                "phone": "+916734359073"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Phek",
+          "district_president": {
+            "name": "Adv. Mandeep Gupta",
+            "phone": "+916167697542"
+          },
+          "tehsils": [
+            {
+              "name": "Phek Zone A",
+              "tehsil_president": {
+                "name": "Dr. Vijay Chaturvedi",
+                "phone": "+918667125966"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Odisha",
+      "districts": [
+        {
+          "name": "Bargarh",
+          "district_president": {
+            "name": "Shri Saurabh Chopra",
+            "phone": "+917376167205"
+          },
+          "tehsils": [
+            {
+              "name": "Bargarh Zone A",
+              "tehsil_president": {
+                "name": "Prof. Dharmendra Saxena",
+                "phone": "+919104887962"
+              }
+            },
+            {
+              "name": "Bargarh Zone B",
+              "tehsil_president": {
+                "name": "Adv. Sunil Yadav",
+                "phone": "+916920475566"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Suresh Rao",
+                "phone": "+916880084730"
+              }
+            },
+            {
+              "name": "Bargarh Zone D",
+              "tehsil_president": {
+                "name": "Prof. Deepak Rathore",
+                "phone": "+919343468493"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Jharsuguda",
+          "district_president": {
+            "name": "Dr. Rakesh Rao",
+            "phone": "+917115777649"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Devendra Desai",
+                "phone": "+916988065088"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Tarun Joshi",
+                "phone": "+917377545254"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Nakul Deshpande",
+                "phone": "+916448497580"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sambalpur",
+          "district_president": {
+            "name": "Prof. Rohit Srivastava",
+            "phone": "+917950611150"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Arun Trivedi",
+                "phone": "+918298033400"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Debagarh",
+          "district_president": {
+            "name": "Prof. Jitesh Srivastava",
+            "phone": "+918033704624"
+          },
+          "tehsils": [
+            {
+              "name": "Debagarh Zone A",
+              "tehsil_president": {
+                "name": "Dr. Rakesh Rajput",
+                "phone": "+916005603808"
+              }
+            },
+            {
+              "name": "Debagarh Zone B",
+              "tehsil_president": {
+                "name": "Prof. Gaurav Chaturvedi",
+                "phone": "+918737875215"
+              }
+            },
+            {
+              "name": "Debagarh Zone C",
+              "tehsil_president": {
+                "name": "Dr. Gupta Pawar",
+                "phone": "+919267692920"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Chirag Dwivedi",
+                "phone": "+917440466336"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sundargarh",
+          "district_president": {
+            "name": "Dr. Ganesh Dwivedi",
+            "phone": "+917141045995"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Rohit Rathore",
+                "phone": "+918193131381"
+              }
+            },
+            {
+              "name": "Sundargarh Zone B",
+              "tehsil_president": {
+                "name": "Shri Shiva Malhotra",
+                "phone": "+919774204319"
+              }
+            },
+            {
+              "name": "Sundargarh Zone C",
+              "tehsil_president": {
+                "name": "Adv. Suresh Chaturvedi",
+                "phone": "+916303430965"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kendujhar",
+          "district_president": {
+            "name": "Prof. Chetan Gupta",
+            "phone": "+917195224085"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Devendra Pandey",
+                "phone": "+917093147260"
+              }
+            },
+            {
+              "name": "Kendujhar Zone B",
+              "tehsil_president": {
+                "name": "Adv. Prakash Arora",
+                "phone": "+918626344626"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Mayurbhanj",
+          "district_president": {
+            "name": "Adv. Harsh Mishra",
+            "phone": "+918934666378"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Tarun Rajput",
+                "phone": "+918861386412"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Baleshwar",
+          "district_president": {
+            "name": "Adv. Nakul Malhotra",
+            "phone": "+918109575145"
+          },
+          "tehsils": [
+            {
+              "name": "Baleshwar Zone A",
+              "tehsil_president": {
+                "name": "Dr. Shyam Thakur",
+                "phone": "+916890528914"
+              }
+            },
+            {
+              "name": "Baleshwar Zone B",
+              "tehsil_president": {
+                "name": "Shri Ashok Yadav",
+                "phone": "+918195204007"
+              }
+            },
+            {
+              "name": "Baleshwar Zone C",
+              "tehsil_president": {
+                "name": "Dr. Mukesh Iyer",
+                "phone": "+917019017906"
+              }
+            },
+            {
+              "name": "Baleshwar Zone D",
+              "tehsil_president": {
+                "name": "Adv. Sharma Shah",
+                "phone": "+919301286759"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "districts": [
+        {
+          "name": "Gurdaspur",
+          "district_president": {
+            "name": "Dr. Ganesh Malhotra",
+            "phone": "+917697797035"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Kuldeep Gupta",
+                "phone": "+919439824590"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Pathankot",
+          "district_president": {
+            "name": "Dr. Manoj Yadav",
+            "phone": "+918768106976"
+          },
+          "tehsils": [
+            {
+              "name": "Pathankot Zone A",
+              "tehsil_president": {
+                "name": "Prof. Prakash Jain",
+                "phone": "+916026315855"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Amritsar",
+          "district_president": {
+            "name": "Adv. Yogesh Kumar",
+            "phone": "+918632247153"
+          },
+          "tehsils": [
+            {
+              "name": "Amritsar Zone A",
+              "tehsil_president": {
+                "name": "Prof. Ravi Bhatt",
+                "phone": "+919024566725"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Tarn Taran",
+          "district_president": {
+            "name": "Prof. Shyam Bhatt",
+            "phone": "+919793476747"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Mohan Tiwari",
+                "phone": "+916427864666"
+              }
+            },
+            {
+              "name": "Tarn Taran Zone B",
+              "tehsil_president": {
+                "name": "Shri Nakul Dwivedi",
+                "phone": "+916973737878"
+              }
+            },
+            {
+              "name": "Tarn Taran Zone C",
+              "tehsil_president": {
+                "name": "Shri Ashok Jain",
+                "phone": "+919510809870"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kapurthala",
+          "district_president": {
+            "name": "Shri Dinesh Srivastava",
+            "phone": "+919304595571"
+          },
+          "tehsils": [
+            {
+              "name": "Kapurthala Zone A",
+              "tehsil_president": {
+                "name": "Prof. Shankar Bhatia",
+                "phone": "+916062936408"
+              }
+            },
+            {
+              "name": "Kapurthala Zone B",
+              "tehsil_president": {
+                "name": "Dr. Shankar Iyer",
+                "phone": "+916114270558"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Jalandhar",
+          "district_president": {
+            "name": "Prof. Hari Khanna",
+            "phone": "+917642720563"
+          },
+          "tehsils": [
+            {
+              "name": "Jalandhar Zone A",
+              "tehsil_president": {
+                "name": "Dr. Dinesh Patel",
+                "phone": "+917186258395"
+              }
+            },
+            {
+              "name": "Jalandhar Zone B",
+              "tehsil_president": {
+                "name": "Shri Pradeep Iyer",
+                "phone": "+919240033692"
+              }
+            },
+            {
+              "name": "Jalandhar Zone C",
+              "tehsil_president": {
+                "name": "Prof. Neeraj Mathur",
+                "phone": "+917007737618"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Shahid Bhagat Singh Nagar",
+          "district_president": {
+            "name": "Adv. Jitesh Rajput",
+            "phone": "+919347154392"
+          },
+          "tehsils": [
+            {
+              "name": "Shahid Bhagat Singh Nagar Zone A",
+              "tehsil_president": {
+                "name": "Adv. Lalit Deshpande",
+                "phone": "+918978057119"
+              }
+            },
+            {
+              "name": "Shahid Bhagat Singh Nagar Zone B",
+              "tehsil_president": {
+                "name": "Dr. Arun Verma",
+                "phone": "+918179615837"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Hoshiarpur",
+          "district_president": {
+            "name": "Adv. Mahesh Tiwari",
+            "phone": "+919626311118"
+          },
+          "tehsils": [
+            {
+              "name": "Hoshiarpur Zone A",
+              "tehsil_president": {
+                "name": "Shri Hari Thakur",
+                "phone": "+918488756786"
+              }
+            },
+            {
+              "name": "Hoshiarpur Zone B",
+              "tehsil_president": {
+                "name": "Shri Sanjay Shah",
+                "phone": "+919715685385"
+              }
+            },
+            {
+              "name": "Hoshiarpur Zone C",
+              "tehsil_president": {
+                "name": "Prof. Ram Dubey",
+                "phone": "+917591010871"
+              }
+            },
+            {
+              "name": "Hoshiarpur Zone D",
+              "tehsil_president": {
+                "name": "Shri Kunal Jain",
+                "phone": "+919539517161"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Rajasthan",
+      "districts": [
+        {
+          "name": "Ganganagar",
+          "district_president": {
+            "name": "Shri Narayan Joshi",
+            "phone": "+917011674625"
+          },
+          "tehsils": [
+            {
+              "name": "Ganganagar Zone A",
+              "tehsil_president": {
+                "name": "Shri Dharmendra Tiwari",
+                "phone": "+918702336772"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Pranav Naidu",
+                "phone": "+917326908895"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Hanumangarh",
+          "district_president": {
+            "name": "Prof. Sumit Mishra",
+            "phone": "+916068506445"
+          },
+          "tehsils": [
+            {
+              "name": "Hanumangarh Zone A",
+              "tehsil_president": {
+                "name": "Dr. Kiran Agarwal",
+                "phone": "+919346765248"
+              }
+            },
+            {
+              "name": "Hanumangarh Zone B",
+              "tehsil_president": {
+                "name": "Adv. Madan Rathore",
+                "phone": "+918646100032"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Sanjay Iyengar",
+                "phone": "+919627959770"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Ashish Mishra",
+                "phone": "+916311315047"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bikaner",
+          "district_president": {
+            "name": "Prof. Vinod Jain",
+            "phone": "+917855903374"
+          },
+          "tehsils": [
+            {
+              "name": "Bikaner Zone A",
+              "tehsil_president": {
+                "name": "Adv. Gopal Chaturvedi",
+                "phone": "+916785787081"
+              }
+            },
+            {
+              "name": "Bikaner Zone B",
+              "tehsil_president": {
+                "name": "Prof. Bhuvan Deshpande",
+                "phone": "+916812686577"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Churu",
+          "district_president": {
+            "name": "Adv. Umesh Rathore",
+            "phone": "+918166350151"
+          },
+          "tehsils": [
+            {
+              "name": "Churu Zone A",
+              "tehsil_president": {
+                "name": "Prof. Tanmay Joshi",
+                "phone": "+919587039186"
+              }
+            },
+            {
+              "name": "Churu Zone B",
+              "tehsil_president": {
+                "name": "Shri Gopal Iyengar",
+                "phone": "+918126551300"
+              }
+            },
+            {
+              "name": "Churu Zone C",
+              "tehsil_president": {
+                "name": "Adv. Mohit Nair",
+                "phone": "+919044648490"
+              }
+            },
+            {
+              "name": "Churu Zone D",
+              "tehsil_president": {
+                "name": "Prof. Jitendra Singh",
+                "phone": "+916469218958"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Jhunjhunu",
+          "district_president": {
+            "name": "Prof. Rajesh Tiwari",
+            "phone": "+918106421704"
+          },
+          "tehsils": [
+            {
+              "name": "Jhunjhunu Zone A",
+              "tehsil_president": {
+                "name": "Adv. Vinod Nair",
+                "phone": "+916474326361"
+              }
+            },
+            {
+              "name": "Jhunjhunu Zone B",
+              "tehsil_president": {
+                "name": "Shri Singh Mehta",
+                "phone": "+918688091094"
+              }
+            },
+            {
+              "name": "Jhunjhunu Zone C",
+              "tehsil_president": {
+                "name": "Shri Sumit Srivastava",
+                "phone": "+919481581958"
+              }
+            },
+            {
+              "name": "Jhunjhunu Zone D",
+              "tehsil_president": {
+                "name": "Adv. Pranav Verma",
+                "phone": "+917897221621"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Alwar",
+          "district_president": {
+            "name": "Adv. Devendra Chaturvedi",
+            "phone": "+918630777403"
+          },
+          "tehsils": [
+            {
+              "name": "Alwar Zone A",
+              "tehsil_president": {
+                "name": "Prof. Nikhil Chopra",
+                "phone": "+916733366936"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Ashish Mishra",
+                "phone": "+917470608380"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bharatpur",
+          "district_president": {
+            "name": "Shri Naresh Mishra",
+            "phone": "+919677585417"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Manoj Kumar",
+                "phone": "+916248770985"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Dhaulpur",
+          "district_president": {
+            "name": "Prof. Varun Singh",
+            "phone": "+919348744344"
+          },
+          "tehsils": [
+            {
+              "name": "Dhaulpur Zone A",
+              "tehsil_president": {
+                "name": "Prof. Girish Deshpande",
+                "phone": "+918357143262"
+              }
+            },
+            {
+              "name": "Dhaulpur Zone B",
+              "tehsil_president": {
+                "name": "Prof. Daksh Dwivedi",
+                "phone": "+916072226753"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Sikkim",
+      "districts": [
+        {
+          "name": "North Sikkim",
+          "district_president": {
+            "name": "Prof. Jagdish Naidu",
+            "phone": "+916551307392"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Manoj Mishra",
+                "phone": "+919085907489"
+              }
+            },
+            {
+              "name": "North Sikkim Zone B",
+              "tehsil_president": {
+                "name": "Shri Rajesh Iyer",
+                "phone": "+919132245879"
+              }
+            },
+            {
+              "name": "North Sikkim Zone C",
+              "tehsil_president": {
+                "name": "Dr. Nikhil Chopra",
+                "phone": "+919699311073"
+              }
+            },
+            {
+              "name": "North Sikkim Zone D",
+              "tehsil_president": {
+                "name": "Prof. Satish Joshi",
+                "phone": "+917138246278"
+              }
+            }
+          ]
+        },
+        {
+          "name": "West Sikkim",
+          "district_president": {
+            "name": "Shri Rohit Tandon",
+            "phone": "+916287583429"
+          },
+          "tehsils": [
+            {
+              "name": "West Sikkim Zone A",
+              "tehsil_president": {
+                "name": "Prof. Dharmendra Joshi",
+                "phone": "+919713179008"
+              }
+            }
+          ]
+        },
+        {
+          "name": "South Sikkim",
+          "district_president": {
+            "name": "Shri Yogesh Agarwal",
+            "phone": "+919747549271"
+          },
+          "tehsils": [
+            {
+              "name": "South Sikkim Zone A",
+              "tehsil_president": {
+                "name": "Adv. Kiran Srivastava",
+                "phone": "+919137825390"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Ajay Dwivedi",
+                "phone": "+918376272669"
+              }
+            }
+          ]
+        },
+        {
+          "name": "East Sikkim",
+          "district_president": {
+            "name": "Adv. Varun Kapoor",
+            "phone": "+917997899360"
+          },
+          "tehsils": [
+            {
+              "name": "East Sikkim Zone A",
+              "tehsil_president": {
+                "name": "Dr. Kuldeep Malhotra",
+                "phone": "+918637952795"
+              }
+            },
+            {
+              "name": "East Sikkim Zone B",
+              "tehsil_president": {
+                "name": "Prof. Pankaj Thakur",
+                "phone": "+917019224274"
+              }
+            },
+            {
+              "name": "East Sikkim Zone C",
+              "tehsil_president": {
+                "name": "Adv. Atul Agarwal",
+                "phone": "+917283427938"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Tamil Nadu",
+      "districts": [
+        {
+          "name": "Thiruvallur",
+          "district_president": {
+            "name": "Dr. Shiva Kapoor",
+            "phone": "+919684690270"
+          },
+          "tehsils": [
+            {
+              "name": "Thiruvallur Zone A",
+              "tehsil_president": {
+                "name": "Shri Sharma Iyengar",
+                "phone": "+918765731800"
+              }
+            },
+            {
+              "name": "Thiruvallur Zone B",
+              "tehsil_president": {
+                "name": "Shri Rajesh Shah",
+                "phone": "+917349829375"
+              }
+            },
+            {
+              "name": "Thiruvallur Zone C",
+              "tehsil_president": {
+                "name": "Dr. Pankaj Dwivedi",
+                "phone": "+917024178255"
+              }
+            },
+            {
+              "name": "Thiruvallur Zone D",
+              "tehsil_president": {
+                "name": "Dr. Sunil Khanna",
+                "phone": "+919799634535"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Chennai",
+          "district_president": {
+            "name": "Dr. Mohit Nair",
+            "phone": "+917377165921"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Rajesh Saxena",
+                "phone": "+917670890432"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kancheepuram",
+          "district_president": {
+            "name": "Shri Mukesh Naidu",
+            "phone": "+919882207294"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Narendra Kulkarni",
+                "phone": "+918737610217"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Satish Mehta",
+                "phone": "+916234718442"
+              }
+            },
+            {
+              "name": "Kancheepuram Zone C",
+              "tehsil_president": {
+                "name": "Dr. Yadav Bhatt",
+                "phone": "+919120780127"
+              }
+            },
+            {
+              "name": "Kancheepuram Zone D",
+              "tehsil_president": {
+                "name": "Prof. Pramod Iyer",
+                "phone": "+916296960614"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Vellore",
+          "district_president": {
+            "name": "Dr. Shyam Iyer",
+            "phone": "+918442347530"
+          },
+          "tehsils": [
+            {
+              "name": "Vellore Zone A",
+              "tehsil_president": {
+                "name": "Dr. Hitesh Yadav",
+                "phone": "+917842701417"
+              }
+            },
+            {
+              "name": "Vellore Zone B",
+              "tehsil_president": {
+                "name": "Prof. Pradeep Saxena",
+                "phone": "+916686844318"
+              }
+            },
+            {
+              "name": "Vellore Zone C",
+              "tehsil_president": {
+                "name": "Dr. Ganesh Iyer",
+                "phone": "+917981972858"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Tiruvannamalai",
+          "district_president": {
+            "name": "Prof. Verma Naidu",
+            "phone": "+919200309677"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Nakul Verma",
+                "phone": "+918418848082"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Sumit Rajput",
+                "phone": "+919068062117"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Viluppuram",
+          "district_president": {
+            "name": "Dr. Nakul Jain",
+            "phone": "+918102153114"
+          },
+          "tehsils": [
+            {
+              "name": "Viluppuram Zone A",
+              "tehsil_president": {
+                "name": "Shri Madhav Sharma",
+                "phone": "+918413458522"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Mahesh Mishra",
+                "phone": "+918976862870"
+              }
+            },
+            {
+              "name": "Viluppuram Zone C",
+              "tehsil_president": {
+                "name": "Dr. Narayan Bhatia",
+                "phone": "+917515318894"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Salem",
+          "district_president": {
+            "name": "Shri Narayan Patel",
+            "phone": "+917225287080"
+          },
+          "tehsils": [
+            {
+              "name": "Salem Zone A",
+              "tehsil_president": {
+                "name": "Prof. Mohan Iyengar",
+                "phone": "+916999431012"
+              }
+            },
+            {
+              "name": "Salem Zone B",
+              "tehsil_president": {
+                "name": "Shri Rohan Arora",
+                "phone": "+918699575856"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Namakkal",
+          "district_president": {
+            "name": "Adv. Jitesh Iyengar",
+            "phone": "+918012645544"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Mukesh Nair",
+                "phone": "+918498333198"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Telangana",
+      "districts": [
+        {
+          "name": "Adilabad",
+          "district_president": {
+            "name": "Dr. Dharmendra Chaturvedi",
+            "phone": "+918338702366"
+          },
+          "tehsils": [
+            {
+              "name": "Adilabad Zone A",
+              "tehsil_president": {
+                "name": "Adv. Arun Deshpande",
+                "phone": "+916866506215"
+              }
+            },
+            {
+              "name": "Adilabad Zone B",
+              "tehsil_president": {
+                "name": "Prof. Keshav Gupta",
+                "phone": "+918213101589"
+              }
+            },
+            {
+              "name": "Adilabad Zone C",
+              "tehsil_president": {
+                "name": "Adv. Satish Rathore",
+                "phone": "+919091949207"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Nizamabad",
+          "district_president": {
+            "name": "Adv. Tarun Kapoor",
+            "phone": "+916397349488"
+          },
+          "tehsils": [
+            {
+              "name": "Nizamabad Zone A",
+              "tehsil_president": {
+                "name": "Dr. Vinod Verma",
+                "phone": "+919131765852"
+              }
+            },
+            {
+              "name": "Nizamabad Zone B",
+              "tehsil_president": {
+                "name": "Prof. Keshav Nair",
+                "phone": "+918330618823"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Karimnagar",
+          "district_president": {
+            "name": "Dr. Deepak Kapoor",
+            "phone": "+918049287751"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Amit Mathur",
+                "phone": "+917988500029"
+              }
+            },
+            {
+              "name": "Karimnagar Zone B",
+              "tehsil_president": {
+                "name": "Adv. Sanjay Tandon",
+                "phone": "+916130915469"
+              }
+            },
+            {
+              "name": "Karimnagar Zone C",
+              "tehsil_president": {
+                "name": "Adv. Kunal Naidu",
+                "phone": "+919889237864"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Medak",
+          "district_president": {
+            "name": "Dr. Naresh Trivedi",
+            "phone": "+919611448797"
+          },
+          "tehsils": [
+            {
+              "name": "Medak Zone A",
+              "tehsil_president": {
+                "name": "Dr. Saurabh Verma",
+                "phone": "+916084853152"
+              }
+            },
+            {
+              "name": "Medak Zone B",
+              "tehsil_president": {
+                "name": "Dr. Verma Rao",
+                "phone": "+917447477305"
+              }
+            },
+            {
+              "name": "Medak Zone C",
+              "tehsil_president": {
+                "name": "Prof. Girish Shah",
+                "phone": "+918985677230"
+              }
+            },
+            {
+              "name": "Medak Zone D",
+              "tehsil_president": {
+                "name": "Shri Alok Deshpande",
+                "phone": "+917170692184"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Hyderabad",
+          "district_president": {
+            "name": "Shri Mandeep Tiwari",
+            "phone": "+919314717058"
+          },
+          "tehsils": [
+            {
+              "name": "Hyderabad Zone A",
+              "tehsil_president": {
+                "name": "Prof. Narayan Saxena",
+                "phone": "+919507342065"
+              }
+            },
+            {
+              "name": "Hyderabad Zone B",
+              "tehsil_president": {
+                "name": "Adv. Mandeep Mathur",
+                "phone": "+917166945838"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Vijay Bhatia",
+                "phone": "+916092628655"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Rangareddy",
+          "district_president": {
+            "name": "Shri Varun Arora",
+            "phone": "+918933644578"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Sumit Pawar",
+                "phone": "+917339525639"
+              }
+            },
+            {
+              "name": "Rangareddy Zone B",
+              "tehsil_president": {
+                "name": "Prof. Satish Saxena",
+                "phone": "+918322910439"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Mahbubnagar",
+          "district_president": {
+            "name": "Adv. Tanmay Deshpande",
+            "phone": "+918323348050"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Kuldeep Yadav",
+                "phone": "+917447923563"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Nalgonda",
+          "district_president": {
+            "name": "Shri Alok Kumar",
+            "phone": "+918915721923"
+          },
+          "tehsils": [
+            {
+              "name": "Nalgonda Zone A",
+              "tehsil_president": {
+                "name": "Adv. Rajdeep Kumar",
+                "phone": "+916154196463"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Tripura",
+      "districts": [
+        {
+          "name": "West Tripura",
+          "district_president": {
+            "name": "Adv. Pramod Gupta",
+            "phone": "+918680077625"
+          },
+          "tehsils": [
+            {
+              "name": "West Tripura Zone A",
+              "tehsil_president": {
+                "name": "Adv. Pramod Trivedi",
+                "phone": "+916621861880"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Anand Chopra",
+                "phone": "+916230500268"
+              }
+            },
+            {
+              "name": "West Tripura Zone C",
+              "tehsil_president": {
+                "name": "Prof. Anil Joshi",
+                "phone": "+916249851925"
+              }
+            }
+          ]
+        },
+        {
+          "name": "South Tripura",
+          "district_president": {
+            "name": "Shri Ashish Mathur",
+            "phone": "+916254831440"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Daksh Deshpande",
+                "phone": "+918594345140"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Ajay Joshi",
+                "phone": "+916225587352"
+              }
+            },
+            {
+              "name": "South Tripura Zone C",
+              "tehsil_president": {
+                "name": "Adv. Anil Gupta",
+                "phone": "+918483648693"
+              }
+            },
+            {
+              "name": "South Tripura Zone D",
+              "tehsil_president": {
+                "name": "Prof. Gupta Jain",
+                "phone": "+918897315330"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Dhalai",
+          "district_president": {
+            "name": "Adv. Krishna Desai",
+            "phone": "+918960763370"
+          },
+          "tehsils": [
+            {
+              "name": "Dhalai Zone A",
+              "tehsil_president": {
+                "name": "Prof. Ravi Thakur",
+                "phone": "+916957358658"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Sohan Mishra",
+                "phone": "+919592611996"
+              }
+            }
+          ]
+        },
+        {
+          "name": "North Tripura",
+          "district_president": {
+            "name": "Shri Lalit Mathur",
+            "phone": "+916010122332"
+          },
+          "tehsils": [
+            {
+              "name": "North Tripura Zone A",
+              "tehsil_president": {
+                "name": "Prof. Kunal Agarwal",
+                "phone": "+919548800987"
+              }
+            },
+            {
+              "name": "North Tripura Zone B",
+              "tehsil_president": {
+                "name": "Prof. Verma Chopra",
+                "phone": "+917035737689"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Uttar Pradesh",
+      "districts": [
+        {
+          "name": "Saharanpur",
+          "district_president": {
+            "name": "Dr. Pankaj Rao",
+            "phone": "+919529041670"
+          },
+          "tehsils": [
+            {
+              "name": "Saharanpur Zone A",
+              "tehsil_president": {
+                "name": "Prof. Girish Saxena",
+                "phone": "+917298667068"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Umesh Mathur",
+                "phone": "+917167119328"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Rohit Bhatt",
+                "phone": "+916410851903"
+              }
+            },
+            {
+              "name": "Saharanpur Zone D",
+              "tehsil_president": {
+                "name": "Adv. Rakesh Nair",
+                "phone": "+917648090147"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Muzaffarnagar",
+          "district_president": {
+            "name": "Prof. Rajesh Deshpande",
+            "phone": "+917435217436"
+          },
+          "tehsils": [
+            {
+              "name": "Muzaffarnagar Zone A",
+              "tehsil_president": {
+                "name": "Prof. Madhav Nair",
+                "phone": "+919587939762"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bijnor",
+          "district_president": {
+            "name": "Adv. Kuldeep Deshpande",
+            "phone": "+917879997347"
+          },
+          "tehsils": [
+            {
+              "name": "Bijnor Zone A",
+              "tehsil_president": {
+                "name": "Prof. Ganesh Desai",
+                "phone": "+919396019109"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Moradabad",
+          "district_president": {
+            "name": "Shri Jitesh Pawar",
+            "phone": "+916991280985"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Rajesh Mathur",
+                "phone": "+919266537934"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Rampur",
+          "district_president": {
+            "name": "Prof. Dhruv Chaturvedi",
+            "phone": "+917371606687"
+          },
+          "tehsils": [
+            {
+              "name": "Rampur Zone A",
+              "tehsil_president": {
+                "name": "Adv. Pranav Kulkarni",
+                "phone": "+918187281326"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Surendra Shah",
+                "phone": "+918467443659"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Madhav Patel",
+                "phone": "+919819473992"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Jyotiba Phule Nagar",
+          "district_president": {
+            "name": "Dr. Pranav Dubey",
+            "phone": "+919390423872"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Keshav Tandon",
+                "phone": "+917861342539"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Meerut",
+          "district_president": {
+            "name": "Prof. Manoj Dubey",
+            "phone": "+916354518990"
+          },
+          "tehsils": [
+            {
+              "name": "Meerut Zone A",
+              "tehsil_president": {
+                "name": "Dr. Rajdeep Bhatia",
+                "phone": "+919242494851"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Ritesh Sharma",
+                "phone": "+917878372700"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Baghpat",
+          "district_president": {
+            "name": "Prof. Narayan Nair",
+            "phone": "+916812011509"
+          },
+          "tehsils": [
+            {
+              "name": "Baghpat Zone A",
+              "tehsil_president": {
+                "name": "Shri Ankit Mehta",
+                "phone": "+919651652117"
+              }
+            },
+            {
+              "name": "Baghpat Zone B",
+              "tehsil_president": {
+                "name": "Adv. Tanmay Bhatia",
+                "phone": "+916019076173"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Uttarakhand",
+      "districts": [
+        {
+          "name": "Uttarkashi",
+          "district_president": {
+            "name": "Dr. Raghav Thakur",
+            "phone": "+919720089808"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Mahendra Nair",
+                "phone": "+918753673928"
+              }
+            },
+            {
+              "name": "Uttarkashi Zone B",
+              "tehsil_president": {
+                "name": "Adv. Bhuvan Reddy",
+                "phone": "+918284209268"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Deepak Arora",
+                "phone": "+918596247257"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Chamoli",
+          "district_president": {
+            "name": "Adv. Keshav Mathur",
+            "phone": "+916400417842"
+          },
+          "tehsils": [
+            {
+              "name": "Chamoli Zone A",
+              "tehsil_president": {
+                "name": "Adv. Kiran Yadav",
+                "phone": "+916884772654"
+              }
+            },
+            {
+              "name": "Chamoli Zone B",
+              "tehsil_president": {
+                "name": "Dr. Hitesh Sharma",
+                "phone": "+919362575225"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Shiva Verma",
+                "phone": "+918659954808"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Kuldeep Agarwal",
+                "phone": "+919025771650"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Rudraprayag",
+          "district_president": {
+            "name": "Prof. Atul Jain",
+            "phone": "+917664325890"
+          },
+          "tehsils": [
+            {
+              "name": "Rudraprayag Zone A",
+              "tehsil_president": {
+                "name": "Adv. Mahesh Mehta",
+                "phone": "+919283531731"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Shiva Pawar",
+                "phone": "+916779135296"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Yadav Kulkarni",
+                "phone": "+918447702641"
+              }
+            },
+            {
+              "name": "Rudraprayag Zone D",
+              "tehsil_president": {
+                "name": "Adv. Atul Patel",
+                "phone": "+919860667331"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Tehri Garhwal",
+          "district_president": {
+            "name": "Shri Ashok Khanna",
+            "phone": "+917106347524"
+          },
+          "tehsils": [
+            {
+              "name": "Tehri Garhwal Zone A",
+              "tehsil_president": {
+                "name": "Adv. Neeraj Gupta",
+                "phone": "+917936749388"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Dehradun",
+          "district_president": {
+            "name": "Adv. Hitesh Pawar",
+            "phone": "+919736072444"
+          },
+          "tehsils": [
+            {
+              "name": "Dehradun Zone A",
+              "tehsil_president": {
+                "name": "Dr. Tarun Nair",
+                "phone": "+918410193478"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Ishaan Malhotra",
+                "phone": "+919006592374"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Garhwal",
+          "district_president": {
+            "name": "Dr. Vishnu Sharma",
+            "phone": "+917559522871"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Surendra Mathur",
+                "phone": "+918304720248"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Pradeep Mathur",
+                "phone": "+917728267613"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Dhruv Chaturvedi",
+                "phone": "+918281400497"
+              }
+            },
+            {
+              "name": "Garhwal Zone D",
+              "tehsil_president": {
+                "name": "Dr. Kunal Chaturvedi",
+                "phone": "+916051621823"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Pithoragarh",
+          "district_president": {
+            "name": "Prof. Rohit Kulkarni",
+            "phone": "+916183697841"
+          },
+          "tehsils": [
+            {
+              "name": "Pithoragarh Zone A",
+              "tehsil_president": {
+                "name": "Prof. Ritesh Bhatia",
+                "phone": "+918427164001"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Daksh Tandon",
+                "phone": "+918295778257"
+              }
+            },
+            {
+              "name": "Pithoragarh Zone C",
+              "tehsil_president": {
+                "name": "Dr. Kumar Mishra",
+                "phone": "+919248302618"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bageshwar",
+          "district_president": {
+            "name": "Adv. Shankar Verma",
+            "phone": "+919005702927"
+          },
+          "tehsils": [
+            {
+              "name": "Bageshwar Zone A",
+              "tehsil_president": {
+                "name": "Prof. Ajay Chauhan",
+                "phone": "+919880318538"
+              }
+            },
+            {
+              "name": "Bageshwar Zone B",
+              "tehsil_president": {
+                "name": "Adv. Pradeep Nair",
+                "phone": "+919055781978"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Chirag Dubey",
+                "phone": "+918613426569"
+              }
+            },
+            {
+              "name": "Bageshwar Zone D",
+              "tehsil_president": {
+                "name": "Prof. Shyam Nair",
+                "phone": "+919631642521"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "West Bengal",
+      "districts": [
+        {
+          "name": "Darjiling",
+          "district_president": {
+            "name": "Prof. Devendra Verma",
+            "phone": "+916689435344"
+          },
+          "tehsils": [
+            {
+              "name": "Darjiling Zone A",
+              "tehsil_president": {
+                "name": "Adv. Tanmay Kapoor",
+                "phone": "+918017773996"
+              }
+            },
+            {
+              "name": "Darjiling Zone B",
+              "tehsil_president": {
+                "name": "Prof. Vinod Yadav",
+                "phone": "+919862412181"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Mahendra Mathur",
+                "phone": "+919985405108"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Jalpaiguri",
+          "district_president": {
+            "name": "Prof. Naresh Saxena",
+            "phone": "+918204591040"
+          },
+          "tehsils": [
+            {
+              "name": "Jalpaiguri Zone A",
+              "tehsil_president": {
+                "name": "Prof. Anand Tandon",
+                "phone": "+919488224562"
+              }
+            },
+            {
+              "name": "Jalpaiguri Zone B",
+              "tehsil_president": {
+                "name": "Shri Keshav Kulkarni",
+                "phone": "+917198164667"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Ashish Yadav",
+                "phone": "+916070611187"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Dr. Gaurav Trivedi",
+                "phone": "+919311901101"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Koch Bihar",
+          "district_president": {
+            "name": "Prof. Mohit Tandon",
+            "phone": "+916063188562"
+          },
+          "tehsils": [
+            {
+              "name": "Koch Bihar Zone A",
+              "tehsil_president": {
+                "name": "Adv. Lakshman Bhatia",
+                "phone": "+917310756282"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Uttar Dinajpur",
+          "district_president": {
+            "name": "Adv. Amit Saxena",
+            "phone": "+919676272595"
+          },
+          "tehsils": [
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Adv. Prakash Deshpande",
+                "phone": "+918046132997"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Dakshin Dinajpur",
+          "district_president": {
+            "name": "Dr. Rajesh Dwivedi",
+            "phone": "+919162833670"
+          },
+          "tehsils": [
+            {
+              "name": "Dakshin Dinajpur Zone A",
+              "tehsil_president": {
+                "name": "Adv. Pradeep Patel",
+                "phone": "+918824716570"
+              }
+            },
+            {
+              "name": "Dakshin Dinajpur Zone B",
+              "tehsil_president": {
+                "name": "Dr. Girish Kulkarni",
+                "phone": "+919164408970"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Gaurav Patel",
+                "phone": "+916953019013"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Prof. Alok Agarwal",
+                "phone": "+919566131180"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maldah",
+          "district_president": {
+            "name": "Adv. Madan Dubey",
+            "phone": "+918371139382"
+          },
+          "tehsils": [
+            {
+              "name": "Maldah Zone A",
+              "tehsil_president": {
+                "name": "Adv. Vinod Nair",
+                "phone": "+918140607396"
+              }
+            },
+            {
+              "name": "Maldah Zone B",
+              "tehsil_president": {
+                "name": "Prof. Mahesh Bhatt",
+                "phone": "+917254794112"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Murshidabad",
+          "district_president": {
+            "name": "Adv. Suresh Sharma",
+            "phone": "+919841715427"
+          },
+          "tehsils": [
+            {
+              "name": "Murshidabad Zone A",
+              "tehsil_president": {
+                "name": "Shri Mandeep Agarwal",
+                "phone": "+917074671710"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Birbhum",
+          "district_president": {
+            "name": "Shri Sharma Joshi",
+            "phone": "+919297264636"
+          },
+          "tehsils": [
+            {
+              "name": "Birbhum Zone A",
+              "tehsil_president": {
+                "name": "Dr. Govind Reddy",
+                "phone": "+917515706534"
+              }
+            },
+            {
+              "name": "",
+              "tehsil_president": {
+                "name": "Shri Gopal Pawar",
+                "phone": "+917506656775"
+              }
+            },
+            {
+              "name": "Birbhum Zone C",
+              "tehsil_president": {
+                "name": "Adv. Mukesh Chauhan",
+                "phone": "+918254860818"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
